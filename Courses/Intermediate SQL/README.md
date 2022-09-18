@@ -4,8 +4,6 @@ INTERACTIVE COURSE
 4 hours
 14 Videos
 50 Exercises
-6,793 Participants
-3,950 XP
 
 ## Course Description
 
