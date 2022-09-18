@@ -9,7 +9,7 @@ R Language
 24 Courses
 4 Skill Assessments
 
-+ [Introduction to R][1]
+- [Introduction to R][1]
 + Intermediate R
 + Introduction to the Tidyverse
 + Data Manipulation with dplyr
