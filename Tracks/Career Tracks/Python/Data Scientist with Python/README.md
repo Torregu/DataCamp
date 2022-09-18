@@ -10,35 +10,14 @@ Python
 6 Projects
 3 Skill Assessments
 
-+ [Introduction to R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20R)
-+ [Intermediate R](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20R)
-+ [Introduction to the Tidyverse](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20the%20Tidyverse)
-+ [Data Manipulation with dplyr](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Manipulation%20with%20dplyr)
-+ [Joining Data with dplyr](https://github.com/Torregu/DataCamp/tree/main/Courses/Joining%20Data%20with%20dplyr)
-+ [Introduction to Statistics in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Statistics%20in%20R)
-+ [Introduction to Data Visualization with ggplot2](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Data%20Visualization%20with%20ggplot2)
-+ [Intermediate Data Visualization with ggplot2](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20Data%20Visualization%20with%20ggplot2)
-+ SKILL ASSESSMENT <br>
-  [Data Manipulation with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Data%20Manipulation%20with%20R)
-+ [Reporting with R Markdown](https://github.com/Torregu/DataCamp/tree/main/Courses/Reporting%20with%20R%20Markdown)
-+ [Data Communication Concepts](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Communication%20Concepts)
-+ [Introduction to Importing Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Importing%20Data%20in%20R)
-+ [Intermediate Importing Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20Importing%20Data%20in%20R)
-+ [Cleaning Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Cleaning%20Data%20in%20R)
-+ [Working with Dates and Times in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Working%20with%20Dates%20and%20Times%20in%20R)
-+ SKILL ASSEMENT <br> 
-  [Importing & Cleaning Data with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Importing%20&%20Cleaning%20Data%20with%20R)
-+ [Introduction to Writing Functions in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Writing%20Functions%20in%20R)
-+ SKILL ASSESSMENT <br>
-  [R Programming](https://github.com/Torregu/DataCamp/tree/main/Assessments/R%20Programming)
-+ [Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Exploratory%20Data%20Analysis%20in%20R)
-+ [Case Study: Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Case%20Study%20I%20Exploratory%20Data%20Analysis%20in%20R)
-+ [Introduction to Regression in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Regression%20in%20R)
-+ [Intermediate Regression in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20Regression%20in%20R)
-+ [Sampling in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Sampling%20in%20R)
-+ [Hypothesis Testing in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Hypothesis%20Testing%20in%20R)
-+ SKILL ASSESSMENT <br>
-  [Statistics Fundamentals with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Statistics%20Fundamentals%20with%20R)
-+ [Supervised Learning in R: Classification](https://github.com/Torregu/DataCamp/tree/main/Courses/Supervised%20Learning%20in%20R%20I%20Classification)
-+ [Supervised Learning in R: Regression](https://github.com/Torregu/DataCamp/tree/main/Courses/Supervised%20Learning%20in%20R%20I%20Regression)
-+ [Unsupervised Learning in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Unsupervised%20Learning%20in%20R)
++ [Introduction to Python](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Python)
++ [Intermediate Python](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20Python)
++ PROJECT <br>
+  [Investigating Netflix Movies and Guest Stars in The Office](https://github.com/Torregu/DataCamp/tree/main/Projects/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
++ [Data Manipulation with pandas](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Manipulation%20with%20pandas)
++ [Joining Data with pandas](https://github.com/Torregu/DataCamp/tree/main/Courses/Joining%20Data%20with%20pandas)
++ [Introduction to Statistics in Python](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Statistics%20in%20Python)
++ PROJECT <br>
+  [The GitHub History of the Scala Language](https://github.com/Torregu/DataCamp/tree/main/Projects/The%20GitHub%20History%20of%20the%20Scala%20Language)
++ [Introduction to Data Visualization with Matplotlib](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Data%20Visualization%20with%20Matplotlib)
++ [Introduction to Data Visualization with Seaborn](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Data%20Visualization%20with%20Searbon)
