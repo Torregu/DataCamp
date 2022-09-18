@@ -1,3 +1,4 @@
+CAREER TRACK
 # Data Analyst with Python
 
 Gain the career-building Python skills you need to succeed as a data analyst. No coding experience required.
