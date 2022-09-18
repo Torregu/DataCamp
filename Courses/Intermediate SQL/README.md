@@ -19,19 +19,17 @@ SQL is the most popular language for turning raw data stored in a database into 
 Accompanied at every step with hands-on practice queries, this course teaches you everything you need to know to analyze data using your own SQL code today!
 
 <style>
-ul {
-  list-style: none;
+.heading1 {
+    color: red;
+    font-weight:700;
+    font-size: 35px;
 }
-
-ul li:before {
-  content: '✓';
+.heading2 {
+    color: blue;
+    font-weight:700;
+    font-size: 30px;
 }
 </style>
 
-<ul>
-  <li>this is my text</li>
-  <li>this is my text</li>
-  <li>this is my text</li>
-  <li>this is my text</li>
-  <li>this is my text</li>
-</ul>
+# Markdown heading styles {#identifier .heading1}
+## Markdown heading styles {#identifier .heading2}
