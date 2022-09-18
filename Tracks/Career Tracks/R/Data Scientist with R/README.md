@@ -10,6 +10,7 @@ R Language
 4 Skill Assessments
 
 + [Introduction to R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20R)
++ [Introduction to R](Courses/Introduction%20to%20R)
 + Intermediate R
 + Introduction to the Tidyverse
 + Data Manipulation with dplyr
