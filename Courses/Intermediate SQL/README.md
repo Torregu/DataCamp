@@ -17,3 +17,19 @@ SQL is the most popular language for turning raw data stored in a database into 
 ✓ How to present your data cleanly using tools such as rounding and aliasing
 
 Accompanied at every step with hands-on practice queries, this course teaches you everything you need to know to analyze data using your own SQL code today!
+
+ul {
+  list-style: none;
+}
+
+ul li:before {
+  content: '✓';
+}
+
+<ul>
+  <li>this is my text</li>
+  <li>this is my text</li>
+  <li>this is my text</li>
+  <li>this is my text</li>
+  <li>this is my text</li>
+</ul>
