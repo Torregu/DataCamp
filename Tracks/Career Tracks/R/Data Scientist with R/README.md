@@ -17,8 +17,7 @@ R Language
 + [Introduction to Statistics in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Statistics%20in%20R)
 + [Introduction to Data Visualization with ggplot2](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Data%20Visualization%20with%20ggplot2)
 + [Intermediate Data Visualization with ggplot2](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20Data%20Visualization%20with%20ggplot2)
-+ SKILL ASSESSMENT
-  [Data Manipulation with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Data%20Manipulation%20with%20R "SKILL ASSESSMENT")
++ SKILL ASSESSMENT <br> [Data Manipulation with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Data%20Manipulation%20with%20R "SKILL ASSESSMENT")
 + [Reporting with R Markdown](https://github.com/Torregu/DataCamp/tree/main/Courses/Reporting%20with%20R%20Markdown)
 + [Data Communication Concepts](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Communication%20Concepts)
 + [Introduction to Importing Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Importing%20Data%20in%20R)
