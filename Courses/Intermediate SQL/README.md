@@ -18,6 +18,8 @@ SQL is the most popular language for turning raw data stored in a database into 
 
 Accompanied at every step with hands-on practice queries, this course teaches you everything you need to know to analyze data using your own SQL code today!
 
+# heading text{#identifier cssselector}
+
 <style>
 .heading1 {
     color: red;
