@@ -9,7 +9,7 @@ R Language
 24 Courses
 4 Skill Assessments
 
-+ Introduction to R
++ [Introduction to R][1]
 + Intermediate R
 + Introduction to the Tidyverse
 + Data Manipulation with dplyr
@@ -37,3 +37,5 @@ R Language
 + Supervised Learning in R: Classification
 + Supervised Learning in R: Regression
 + Unsupervised Learning in R
+
+[1]: Courses/Introduction to R/test.txt
