@@ -12,11 +12,11 @@ R Language
 + [Introduction to R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20R)
 + [Intermediate R](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20R)
 + [Introduction to the Tidyverse](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20the%20Tidyverse)
-+ [Data Manipulation with dplyr](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20to%20Manipulation%20with%20dplyr)
++ [Data Manipulation with dplyr](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Manipulation%20with%20dplyr)
 + [Joining Data with dplyr](https://github.com/Torregu/DataCamp/tree/main/Courses/Joining%20Data%20with%20dplyr)
-+ Introduction to Statistics in R
-+ Introduction to Data Visualization with ggplot2
-+ Intermediate Data Visualization with ggplot2
++ [Introduction to Statistics in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Statistics%20in%20R)
++ [Introduction to Data Visualization with ggplot2](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Data%20Visualization%20with%20ggplot2)
++ [Intermediate Data Visualization with ggplot2](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20Data%20Visualization%20with%20ggplot2)
 + Data Manipulation with R (SKILL ASSESSMENT)
 + Reporting with R Markdown
 + Data Communication Concepts
