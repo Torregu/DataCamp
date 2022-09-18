@@ -8,3 +8,32 @@ R Language
 95 hours
 24 Courses
 4 Skill Assessments
+
++ Introduction to R
++ Intermediate R
++ Introduction to the Tidyverse
++ Data Manipulation with dplyr
++ Joining Data with dplyr
++ Introduction to Statistics in R
++ Introduction to Data Visualization with ggplot2
++ Intermediate Data Visualization with ggplot2
++ Data Manipulation with R (SKILL ASSESSMENT)
++ Reporting with R Markdown
++ Data Communication Concepts
++ Introduction to Importing Data in R
++ Intermediate Importing Data in R
++ Cleaning Data in R
++ Working with Dates and Times in R
++ Importing & Cleaning Data with R (SKILL ASSESSMENT)
++ Introduction to Writing Functions in R
++ R Programming (SKILL ASSESSMENT)
++ Exploratory Data Analysis in R
++ Case Study: Exploratory Data Analysis in R
++ Introduction to Regression in R
++ Intermediate Regression in R
++ Sampling in R
++ Hypothesis Testing in R
++ Statisticcs Fundamentals with R (SKILL ASSESSMENT)
++ Supervised Learning in R: Classification
++ Supervised Learning in R: Regression
++ Unsupervised Learning in R
