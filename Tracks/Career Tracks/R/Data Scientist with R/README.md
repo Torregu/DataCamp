@@ -26,11 +26,12 @@ R Language
 + [Cleaning Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Cleaning%20Data%20in%20R)
 + [Working with Dates and Times in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Working%20with%20Dates%20and%20Times%20in%20R)
 + SKILL ASSEMENT <br> 
-  [Importing & Cleaning Data with R](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20Data%20with%20R)
-+ Introduction to Writing Functions in R
-+ R Programming (SKILL ASSESSMENT)
-+ Exploratory Data Analysis in R
-+ Case Study: Exploratory Data Analysis in R
+  [Importing & Cleaning Data with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Importing%20&%20Cleaning%20Data%20with%20R)
++ [Introduction to Writing Functions in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Writing%20Functions%20in%20R)
++ (SKILL ASSESSMENT) <br>
+  [R Programming](https://github.com/Torregu/DataCamp/tree/main/Assessments/R%20Programming)
++ [Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Exploratory%20Data%20Analysis%20in%20R)
++ [Case Study: Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Case%20Study%20I%20Exploratory%20Data%20Analysis%20in%20R)
 + Introduction to Regression in R
 + Intermediate Regression in R
 + Sampling in R
