@@ -28,15 +28,19 @@ R Language
 + SKILL ASSEMENT <br> 
   [Importing & Cleaning Data with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Importing%20&%20Cleaning%20Data%20with%20R)
 + [Introduction to Writing Functions in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Writing%20Functions%20in%20R)
-+ (SKILL ASSESSMENT) <br>
++ SKILL ASSESSMENT <br>
   [R Programming](https://github.com/Torregu/DataCamp/tree/main/Assessments/R%20Programming)
 + [Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Exploratory%20Data%20Analysis%20in%20R)
 + [Case Study: Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Case%20Study%20I%20Exploratory%20Data%20Analysis%20in%20R)
-+ Introduction to Regression in R
-+ Intermediate Regression in R
-+ Sampling in R
-+ Hypothesis Testing in R
-+ Statisticcs Fundamentals with R (SKILL ASSESSMENT)
-+ Supervised Learning in R: Classification
-+ Supervised Learning in R: Regression
-+ Unsupervised Learning in R
++ [Introduction to Regression in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Regression%20in%20R)
++ [Intermediate Regression in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20Regression%20in%20R)
++ [Sampling in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Sampling%20in%20R)
++ [Hypothesis Testing in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Hypothesis%20Testing%20in%20R)
++ SKILL ASSESSMENT <br>
+  [Statisticcs Fundamentals with R](https://github.com/Torregu/DataCamp/tree/main/Courses/Statistics%20Fundamentals%20with%20R)
++ [Supervised Learning in R: Classification]
+  (https://github.com/Torregu/DataCamp/tree/main/Courses/Supervised%20Learning%20in%20R%20I%20Classification)
++ [Supervised Learning in R: Regression]
+  (https://github.com/Torregu/DataCamp/tree/main/Courses/Supervised%20Learning%20in%20R%20I%20Regression)
++ [Unsupervised Learning in R]
+  (https://github.com/Torregu/DataCamp/tree/main/Courses/Unsupervised%20Learning%20in%20R)
