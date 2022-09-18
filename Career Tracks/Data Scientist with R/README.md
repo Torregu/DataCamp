@@ -1,5 +1,4 @@
-# Data Scientist <br> with R
-<h1 style="font-weight: small">with R</h1>
+# Data Scientist with R
 
 Gain the career-building R skills you need to succeed as a data scientist. No prior coding experience required.
 
