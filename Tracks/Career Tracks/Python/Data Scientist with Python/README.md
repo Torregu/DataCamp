@@ -1,13 +1,14 @@
-# Data Scientist with R
+# Data Scientist with Python
 
-Gain the career-building R skills you need to succeed as a data scientist. No prior coding experience required.
+Gain the career-building Python skills you need to succeed in the exciting field of data science—from data manipulation to machine learning!
 
-In this track, you’ll learn how this versatile language allows you to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher. Through interactive exercises, you’ll get hands-on with some of the most popular R packages, including ggplot2 and tidyverse packages like dplyr and readr. You’ll then work with real-world datasets to learn the statistical and machine learning techniques you need to write your own functions and perform cluster analysis. Start this track, grow your R skills, and begin your journey to becoming a confident data scientist.
+In this track, you’ll learn how this versatile language allows you to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher. Through interactive exercises, you’ll get hands-on with some of the most popular Python libraries, including pandas, NumPy, Matplotlib, and many more. You’ll then work with real-world datasets to learn the statistical and machine learning techniques you need to perform hypothesis testing and build predictive models. Start this track, grow your Python skills, and begin your journey to becoming a confident data scientist.
 
-R Language
-95 hours
-24 Courses
-4 Skill Assessments
+Python
+96 hours
+25 Courses
+6 Projects
+3 Skill Assessments
 
 + [Introduction to R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20R)
 + [Intermediate R](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20R)
