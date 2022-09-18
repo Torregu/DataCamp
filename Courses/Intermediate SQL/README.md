@@ -18,6 +18,7 @@ SQL is the most popular language for turning raw data stored in a database into 
 
 Accompanied at every step with hands-on practice queries, this course teaches you everything you need to know to analyze data using your own SQL code today!
 
+<style>
 ul {
   list-style: none;
 }
@@ -25,6 +26,7 @@ ul {
 ul li:before {
   content: '✓';
 }
+</style>
 
 <ul>
   <li>this is my text</li>
