@@ -9,12 +9,11 @@ R Language
 24 Courses
 4 Skill Assessments
 
-<!-- + [Introduction to R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20R) -->
-+ [Introduction to R](Courses/Introduction%20to%20R)
-+ Intermediate R
-+ Introduction to the Tidyverse
-+ Data Manipulation with dplyr
-+ Joining Data with dplyr
++ [Introduction to R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20R)
++ [Intermediate R](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20R)
++ [Introduction to the Tidyverse](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20the%20Tidyverse)
++ [Data Manipulation with dplyr](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20to%20Manipulation%20with%20dplyr)
++ [Joining Data with dplyr](https://github.com/Torregu/DataCamp/tree/main/Courses/Joining%20Data%20with%20dplyr)
 + Introduction to Statistics in R
 + Introduction to Data Visualization with ggplot2
 + Intermediate Data Visualization with ggplot2
