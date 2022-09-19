@@ -10,17 +10,17 @@ R Language
 24 Courses
 4 Skill Assessments
 
-+ [Introduction to R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20R)
-+ [Intermediate R](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20R)
-+ [Introduction to the Tidyverse](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20the%20Tidyverse)
-+ [Data Manipulation with dplyr](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Manipulation%20with%20dplyr)
-+ [Joining Data with dplyr](https://github.com/Torregu/DataCamp/tree/main/Courses/Joining%20Data%20with%20dplyr)
-+ [Introduction to Statistics in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Statistics%20in%20R)
-+ [Introduction to Data Visualization with ggplot2](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Data%20Visualization%20with%20ggplot2)
-+ [Intermediate Data Visualization with ggplot2](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20Data%20Visualization%20with%20ggplot2)
++ [Introduction to R](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/R/Introduction%20to%20R)
++ [Intermediate R](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/R/Intermediate%20R)
++ [Introduction to the Tidyverse](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/R/Introduction%20to%20the%20Tidyverse)
++ [Data Manipulation with dplyr](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/R/Data%20Manipulation%20with%20dplyr)
++ [Joining Data with dplyr](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/R/Joining%20Data%20with%20dplyr)
++ [Introduction to Statistics in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/R/Introduction%20to%20Statistics%20in%20R)
++ [Introduction to Data Visualization with ggplot2](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/R/Introduction%20to%20Data%20Visualization%20with%20ggplot2)
++ [Intermediate Data Visualization with ggplot2](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/R/Intermediate%20Data%20Visualization%20with%20ggplot2)
 + SKILL ASSESSMENT <br>
   [Data Manipulation with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Data%20Manipulation%20with%20R)
-+ [Reporting with R Markdown](https://github.com/Torregu/DataCamp/tree/main/Courses/Reporting%20with%20R%20Markdown)
++ [Reporting with R Markdown](https://github.com/Torregu/DataCamp/tree/main/Courses/Reporting/R/Reporting%20with%20R%20Markdown)
 + [Data Communication Concepts](https://github.com/Torregu/DataCamp/tree/main/Courses/Reporting/Theory/Data%20Communication%20Concepts)
 + [Introduction to Importing Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20Data/R/Introduction%20to%20Importing%20Data%20in%20R)
 + [Intermediate Importing Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20Data/R/Intermediate%20Importing%20Data%20in%20R)
