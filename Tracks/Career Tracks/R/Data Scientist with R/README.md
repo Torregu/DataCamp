@@ -39,6 +39,6 @@ R Language
 + [Hypothesis Testing in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Hypothesis%20Testing%20in%20R)
 + SKILL ASSESSMENT <br>
   [Statistics Fundamentals with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Statistics%20Fundamentals%20with%20R)
-+ [Supervised Learning in R: Classification](https://github.com/Torregu/DataCamp/tree/main/Courses/Machine%20Learning%20R/Supervised%20Learning%20in%20R%20I%20Classification)
-+ [Supervised Learning in R: Regression](https://github.com/Torregu/DataCamp/tree/main/Courses/Machine%20Learning%20/R/Supervised%20Learning%20in%20R%20I%20Regression)
-+ [Unsupervised Learning in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Machine%20Learning%20/R/Unsupervised%20Learning%20in%20R)
++ [Supervised Learning in R: Classification](https://github.com/Torregu/DataCamp/tree/main/Courses/Machine%20Learning/R/Supervised%20Learning%20in%20R%20I%20Classification)
++ [Supervised Learning in R: Regression](https://github.com/Torregu/DataCamp/tree/main/Courses/Machine%20Learning/R/Supervised%20Learning%20in%20R%20I%20Regression)
++ [Unsupervised Learning in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Machine%20Learning/R/Unsupervised%20Learning%20in%20R)
