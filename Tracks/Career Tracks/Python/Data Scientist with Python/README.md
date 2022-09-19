@@ -11,14 +11,14 @@ Python
 6 Projects
 3 Skill Assessments
 
-+ [Introduction to Python](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Python)
-+ [Intermediate Python](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20Python)
++ [Introduction to Python](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python)
++ [Intermediate Python](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Intermediate%20Python)
 + PROJECT <br>
   [Investigating Netflix Movies and Guest Stars in The Office](https://github.com/Torregu/DataCamp/tree/main/Projects/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
-+ [Data Manipulation with pandas](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Manipulation%20with%20pandas)
-+ [Joining Data with pandas](https://github.com/Torregu/DataCamp/tree/main/Courses/Joining%20Data%20with%20pandas)
-+ [Introduction to Statistics in Python](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Statistics%20in%20Python)
++ [Data Manipulation with pandas](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Manipulation/Python/Data%20Manipulation%20with%20pandas)
++ [Joining Data with pandas](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Manipulation/Python/Joining%20Data%20with%20pandas)
++ [Introduction to Statistics in Python](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/Python/Introduction%20to%20Statistics%20in%20Python)
 + PROJECT <br>
   [The GitHub History of the Scala Language](https://github.com/Torregu/DataCamp/tree/main/Projects/The%20GitHub%20History%20of%20the%20Scala%20Language)
-+ [Introduction to Data Visualization with Matplotlib](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Data%20Visualization%20with%20Matplotlib)
-+ [Introduction to Data Visualization with Seaborn](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Data%20Visualization%20with%20Searbon)
++ [Introduction to Data Visualization with Matplotlib](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/Python/Introduction%20to%20Data%20Visualization%20with%20Matplotlib)
++ [Introduction to Data Visualization with Seaborn](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/Python/Introduction%20to%20Data%20Visualization%20with%20Searbon)
