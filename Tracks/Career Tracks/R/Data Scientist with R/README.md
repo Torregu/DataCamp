@@ -32,7 +32,7 @@ R Language
 + SKILL ASSESSMENT <br>
   [R Programming](https://github.com/Torregu/DataCamp/tree/main/Assessments/R%20Programming)
 + [Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/R/Exploratory%20Data%20Analysis%20in%20R)
-+ [Case Study: Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Cases%20Studies/R/Case%20Study%20I%20Exploratory%20Data%20Analysis%20in%20R)
++ [Case Study: Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Case%20Studies/R/Case%20Study%20I%20Exploratory%20Data%20Analysis%20in%20R)
 + [Introduction to Regression in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/R/Introduction%20to%20Regression%20in%20R)
 + [Intermediate Regression in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/R/Intermediate%20Regression%20in%20R)
 + [Sampling in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/R/Sampling%20in%20R)
