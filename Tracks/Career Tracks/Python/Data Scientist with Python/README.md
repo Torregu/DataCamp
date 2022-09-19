@@ -21,4 +21,4 @@ Python
 + PROJECT <br>
   [The GitHub History of the Scala Language](https://github.com/Torregu/DataCamp/tree/main/Projects/The%20GitHub%20History%20of%20the%20Scala%20Language)
 + [Introduction to Data Visualization with Matplotlib](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/Python/Introduction%20to%20Data%20Visualization%20with%20Matplotlib)
-+ [Introduction to Data Visualization with Seaborn](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/Python/Introduction%20to%20Data%20Visualization%20with%20Searbon)
++ [Introduction to Data Visualization with Seaborn](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/Python/Introduction%20to%20Data%20Visualization%20with%20Seaborn)
