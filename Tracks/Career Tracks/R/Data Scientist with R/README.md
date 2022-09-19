@@ -22,13 +22,13 @@ R Language
   [Data Manipulation with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Data%20Manipulation%20with%20R)
 + [Reporting with R Markdown](https://github.com/Torregu/DataCamp/tree/main/Courses/Reporting%20with%20R%20Markdown)
 + [Data Communication Concepts](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Communication%20Concepts)
-+ [Introduction to Importing Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Importing%20Data%20in%20R)
-+ [Intermediate Importing Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20Importing%20Data%20in%20R)
-+ [Cleaning Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Cleaning%20Data%20in%20R)
-+ [Working with Dates and Times in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Working%20with%20Dates%20and%20Times%20in%20R)
++ [Introduction to Importing Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20Data/R/Introduction%20to%20Importing%20Data%20in%20R)
++ [Intermediate Importing Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20Data/R/Intermediate%20Importing%20Data%20in%20R)
++ [Cleaning Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20Data/R/Cleaning%20Data%20in%20R)
++ [Working with Dates and Times in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/R/Working%20with%20Dates%20and%20Times%20in%20R)
 + SKILL ASSEMENT <br> 
   [Importing & Cleaning Data with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Importing%20&%20Cleaning%20Data%20with%20R)
-+ [Introduction to Writing Functions in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Writing%20Functions%20in%20R)
++ [Introduction to Writing Functions in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/R/Introduction%20to%20Writing%20Functions%20in%20R)
 + SKILL ASSESSMENT <br>
   [R Programming](https://github.com/Torregu/DataCamp/tree/main/Assessments/R%20Programming)
 + [Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/R/Exploratory%20Data%20Analysis%20in%20R)
