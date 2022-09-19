@@ -1,2 +1,20 @@
 INTERACTIVE COURSE
 # Introduction to Python
+
+4 hours
+11 Videos
+57 Exercises
+
+# Course Description
+
+Python is a general-purpose programming language that is becoming ever more popular for data science. Companies worldwide are using Python to harvest insights from their data and gain a competitive edge. Unlike other Python tutorials, this course focuses on Python specifically for data science. In our Introduction to Python course, you’ll learn about powerful ways to store and manipulate data, and helpful data science tools to begin conducting your own analyses. Start DataCamp’s online Python curriculum now.
+
+<details>
+<summary>Heading</summary>
+<!--All you need is a blank line-->
+
+    + markdown list 1
+        + nested list 1
+        + nested list 2
+    + markdown list 2
+</details>
