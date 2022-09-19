@@ -21,7 +21,7 @@ R Language
 + SKILL ASSESSMENT <br>
   [Data Manipulation with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Data%20Manipulation%20with%20R)
 + [Reporting with R Markdown](https://github.com/Torregu/DataCamp/tree/main/Courses/Reporting%20with%20R%20Markdown)
-+ [Data Communication Concepts](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Communication%20Concepts)
++ [Data Communication Concepts](https://github.com/Torregu/DataCamp/tree/main/Courses/Theory/Reporting/Data%20Communication%20Concepts)
 + [Introduction to Importing Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20Data/R/Introduction%20to%20Importing%20Data%20in%20R)
 + [Intermediate Importing Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20Data/R/Intermediate%20Importing%20Data%20in%20R)
 + [Cleaning Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20Data/R/Cleaning%20Data%20in%20R)
