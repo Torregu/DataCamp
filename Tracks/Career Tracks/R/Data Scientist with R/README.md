@@ -31,12 +31,12 @@ R Language
 + [Introduction to Writing Functions in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Writing%20Functions%20in%20R)
 + SKILL ASSESSMENT <br>
   [R Programming](https://github.com/Torregu/DataCamp/tree/main/Assessments/R%20Programming)
-+ [Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Exploratory%20Data%20Analysis%20in%20R)
-+ [Case Study: Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Case%20Study%20I%20Exploratory%20Data%20Analysis%20in%20R)
-+ [Introduction to Regression in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Introduction%20to%20Regression%20in%20R)
-+ [Intermediate Regression in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Intermediate%20Regression%20in%20R)
-+ [Sampling in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Sampling%20in%20R)
-+ [Hypothesis Testing in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Hypothesis%20Testing%20in%20R)
++ [Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/R/Exploratory%20Data%20Analysis%20in%20R)
++ [Case Study: Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Cases%20Studies/R/Case%20Study%20I%20Exploratory%20Data%20Analysis%20in%20R)
++ [Introduction to Regression in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/R/Introduction%20to%20Regression%20in%20R)
++ [Intermediate Regression in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/R/Intermediate%20Regression%20in%20R)
++ [Sampling in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/R/Sampling%20in%20R)
++ [Hypothesis Testing in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/R/Hypothesis%20Testing%20in%20R)
 + SKILL ASSESSMENT <br>
   [Statistics Fundamentals with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Statistics%20Fundamentals%20with%20R)
 + [Supervised Learning in R: Classification](https://github.com/Torregu/DataCamp/tree/main/Courses/Machine%20Learning/R/Supervised%20Learning%20in%20R%20I%20Classification)
