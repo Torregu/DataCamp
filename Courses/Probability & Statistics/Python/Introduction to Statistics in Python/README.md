@@ -1,2 +1,2 @@
 INTERACTIVE COURSE
-# Introduction to Python
+# Introduction to Statistics in Python
