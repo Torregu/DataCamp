@@ -1,2 +1,2 @@
 INTERACTIVE COURSE
-# Introduction to Python
+# Data Manipulation with pandas
