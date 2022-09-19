@@ -1,2 +1,2 @@
 INTERACTIVE COURSE
-# Introduction to Python
+# Introduction to Data Visualization with Matplotlib
