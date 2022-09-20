@@ -110,6 +110,8 @@ NumPy is a fundamental Python package to efficiently practice data science. Lear
 </ul>
 </details>
 
+<br><br>
+
 This course is part of these tracks:
 
 Data Scientist with Python
