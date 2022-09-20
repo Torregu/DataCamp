@@ -19,11 +19,18 @@ An introduction to the basic concepts of Python. Learn how to use Python interac
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
 <ul>
-<li> markdown list 1</li>
-<ul>
-<li> nested list 1</li>
-<li> nested list 2</li>
-</ul>
-<li> markdown list 2</li>
+<li>Hello Python</li>
+<li>The Python Interface</li>
+<li>When to use Python?</li>
+<li>Any comments?</li>
+<li>Python as a calculator</li>
+<li>Variables and Types</li>
+<li>Variable Assigment</li>
+<li>Calculations with variables</li>
+<li>Other variables types</li>
+<li>Guess the type</li>
+<li>Operations with other types</li>
+<li>Type conversion</li>
+<li>Can Python handle everything</li>
 </ul>
 </details>
