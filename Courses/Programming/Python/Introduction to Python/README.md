@@ -24,8 +24,8 @@ An introduction to the basic concepts of Python. Learn how to use Python interac
 <li>When to use Python? --------------- 50 xp</li>
 <li>Any comments? ------------------- 100 xp</li>
 <li>Python as a calculator ------------- 100 xp</li>
-<li>Variables and Types ---------------- 50 xp</li>
-<li>Variable Assignment -------------- 100 xp</li>
+<li>Variables and Types ----------------- 50 xp</li>
+<li>Variable Assignment --------------- 100 xp</li>
 <li>Calculations with variables -------- 100 xp</li>
 <li>Other variable types --------------- 100 xp</li>
 <li>Guess the type ---------------------- 50 xp</li>
