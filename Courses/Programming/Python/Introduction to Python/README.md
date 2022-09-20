@@ -11,10 +11,12 @@ Python is a general-purpose programming language that is becoming ever more popu
 
 <details>
 <summary>Heading</summary>
-<!--All you need is a blank line-->
-
-    + markdown list 1
-        + nested list 1
-        + nested list 2
-    + markdown list 2
+<ul>
+<li> markdown list 1</li>
+<ul>
+<li> nested list 1</li>
+<li> nested list 2</li>
+</ul>
+<li> markdown list 2</li>
+</ul>
 </details>
