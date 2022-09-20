@@ -19,18 +19,18 @@ An introduction to the basic concepts of Python. Learn how to use Python interac
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
 <ul>
-<li>Hello Python</li>
-<li>The Python Interface</li>
-<li>When to use Python?</li>
-<li>Any comments?</li>
-<li>Python as a calculator</li>
-<li>Variables and Types</li>
-<li>Variable Assigment</li>
-<li>Calculations with variables</li>
-<li>Other variables types</li>
-<li>Guess the type</li>
-<li>Operations with other types</li>
-<li>Type conversion</li>
-<li>Can Python handle everything</li>
+<li>Hello Python                  	 50 xp</li>
+<li>The Python Interface                100 xp</li>
+<li>When to use Python?           	 50 xp</li>
+<li>Any comments?                       100 xp</li>
+<li>Python as a calculator              100 xp</li>
+<li>Variables and Types           	 50 xp</li>
+<li>Variable Assigment           	100 xp</li>
+<li>Calculations with variables  	100 xp</li>
+<li>Other variables types        	100 xp</li>
+<li>Guess the type                	 50 xp</li>
+<li>Operations with other types  	100 xp</li>
+<li>Type conversion              	100 xp</li>
+<li>Can Python handle everything  	50 xp</li>
 </ul>
 </details>
