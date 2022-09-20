@@ -30,7 +30,7 @@ An introduction to the basic concepts of Python. Learn how to use Python interac
 <li>Other variables types &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100 xp</li>
 <li>Guess the type &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50 xp</li>
 <li>Operations with other types &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100 xp</li>
-<li>Type conversion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100 xp</li>
+<li>Type conversion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100 xp</li>
 <li>Can Python handle everything &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50 xp</li>
 </ul>
 </details>
