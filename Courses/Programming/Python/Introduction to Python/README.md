@@ -109,3 +109,8 @@ NumPy is a fundamental Python package to efficiently practice data science. Lear
 <li>Can Python handle everything? ------------------------------------------------------------------------------------------- 50 xp</li>
 </ul>
 </details>
+
+This course is part of these tracks:
+
+Data Scientist with Python
+Python Fundamentals
