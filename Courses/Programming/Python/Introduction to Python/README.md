@@ -31,6 +31,6 @@ An introduction to the basic concepts of Python. Learn how to use Python interac
 <li>Guess the type ---------------------- 50 xp</li>
 <li>Operations with other types ------ 100 xp</li>
 <li>Type conversion ------------------- 100 xp</li>
-<li>Can Python handle everything ----- 50 xp</li>
+<li>Can Python handle everything? ---- 50 xp</li>
 </ul>
 </details>
