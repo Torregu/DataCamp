@@ -4,6 +4,7 @@ INTERACTIVE COURSE
 4 hours
 11 Videos
 57 Exercises
+4,700 XP
 
 # Course Description
 
