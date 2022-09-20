@@ -34,6 +34,7 @@ An introduction to the basic concepts of Python. Learn how to use Python interac
 <li>Can Python handle everything? ---- 50 xp</li>
 </ul>
 </details>
+
 <br>
 
 **1 Python Basics**
@@ -58,6 +59,7 @@ An introduction to the basic concepts of Python. Learn how to use Python interac
 <li>Can Python handle everything? ---- 50 xp</li>
 </ul>
 </details>
+
 <br>
 
 **1 Python Basics**
@@ -82,6 +84,7 @@ An introduction to the basic concepts of Python. Learn how to use Python interac
 <li>Can Python handle everything? ---- 50 xp</li>
 </ul>
 </details>
+
 <br>
 
 **1 Python Basics**
