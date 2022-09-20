@@ -34,3 +34,72 @@ An introduction to the basic concepts of Python. Learn how to use Python interac
 <li>Can Python handle everything? ---- 50 xp</li>
 </ul>
 </details>
+
+**1 Python Basics**
+
+An introduction to the basic concepts of Python. Learn how to use Python interactively and by using a script. Create your first variables and acquaint yourself with Python's basic data types.
+
+<details>
+<summary>VIEW CHAPTER DETAILS</summary>
+<ul>
+<li>Hello Python ------------------------ 50 xp</li>
+<li>The Python Interface -------------- 100 xp</li>
+<li>When to use Python? --------------- 50 xp</li>
+<li>Any comments? -------------------- 100 xp</li>
+<li>Python as a calculator ------------- 100 xp</li>
+<li>Variables and Types ----------------- 50 xp</li>
+<li>Variable Assignment --------------- 100 xp</li>
+<li>Calculations with variables -------- 100 xp</li>
+<li>Other variable types --------------- 100 xp</li>
+<li>Guess the type ---------------------- 50 xp</li>
+<li>Operations with other types ------ 100 xp</li>
+<li>Type conversion ------------------- 100 xp</li>
+<li>Can Python handle everything? ---- 50 xp</li>
+</ul>
+</details>
+
+**1 Python Basics**
+
+An introduction to the basic concepts of Python. Learn how to use Python interactively and by using a script. Create your first variables and acquaint yourself with Python's basic data types.
+
+<details>
+<summary>VIEW CHAPTER DETAILS</summary>
+<ul>
+<li>Hello Python ------------------------ 50 xp</li>
+<li>The Python Interface -------------- 100 xp</li>
+<li>When to use Python? --------------- 50 xp</li>
+<li>Any comments? -------------------- 100 xp</li>
+<li>Python as a calculator ------------- 100 xp</li>
+<li>Variables and Types ----------------- 50 xp</li>
+<li>Variable Assignment --------------- 100 xp</li>
+<li>Calculations with variables -------- 100 xp</li>
+<li>Other variable types --------------- 100 xp</li>
+<li>Guess the type ---------------------- 50 xp</li>
+<li>Operations with other types ------ 100 xp</li>
+<li>Type conversion ------------------- 100 xp</li>
+<li>Can Python handle everything? ---- 50 xp</li>
+</ul>
+</details>
+
+**1 Python Basics**
+
+An introduction to the basic concepts of Python. Learn how to use Python interactively and by using a script. Create your first variables and acquaint yourself with Python's basic data types.
+
+<details>
+<summary>VIEW CHAPTER DETAILS</summary>
+<ul>
+<li>Hello Python ------------------------ 50 xp</li>
+<li>The Python Interface -------------- 100 xp</li>
+<li>When to use Python? --------------- 50 xp</li>
+<li>Any comments? -------------------- 100 xp</li>
+<li>Python as a calculator ------------- 100 xp</li>
+<li>Variables and Types ----------------- 50 xp</li>
+<li>Variable Assignment --------------- 100 xp</li>
+<li>Calculations with variables -------- 100 xp</li>
+<li>Other variable types --------------- 100 xp</li>
+<li>Guess the type ---------------------- 50 xp</li>
+<li>Operations with other types ------ 100 xp</li>
+<li>Type conversion ------------------- 100 xp</li>
+<li>Can Python handle everything? ---- 50 xp</li>
+</ul>
+</details>
