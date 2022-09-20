@@ -19,18 +19,18 @@ An introduction to the basic concepts of Python. Learn how to use Python interac
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
 <ul>
-<li>Hello Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50 xp</li>
-<li>The Python Interface &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100 xp</li>
-<li>When to use Python? &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50 xp</li>
-<li>Any comments? &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100 xp</li>
-<li>Python as a calculator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100 xp</li>
-<li>Variables and Types &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50 xp</li>
-<li>Variable Assigment &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100 xp</li>
-<li>Calculations with variables &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100 xp</li>
-<li>Other variables types &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100 xp</li>
-<li>Guess the type &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50 xp</li>
-<li>Operations with other types &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100 xp</li>
-<li>Type conversion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100 xp</li>
-<li>Can Python handle everything &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50 xp</li>
+<li>Hello Python.........................50 xp</li>
+<li>The Python Interface................100 xp</li>
+<li>When to use Python?..................50 xp</li>
+<li>Any comments?.......................100 xp</li>
+<li>Python as a calculator..............100 xp</li>
+<li>Variables and Types..................50 xp</li>
+<li>Variable Assigment..................100 xp</li>
+<li>Calculations with variables.........100 xp</li>
+<li>Other variables types...............100 xp</li>
+<li>Guess the type.......................50 xp</li>
+<li>Operations with other types.........100 xp</li>
+<li>Type conversion.....................100 xp</li>
+<li>Can Python handle everything.........50 xp</li>
 </ul>
 </details>
