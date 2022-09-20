@@ -37,34 +37,9 @@ An introduction to the basic concepts of Python. Learn how to use Python interac
 
 <br>
 
-**1 Python Basics**
+**2 Python Lists**
 
-An introduction to the basic concepts of Python. Learn how to use Python interactively and by using a script. Create your first variables and acquaint yourself with Python's basic data types.
-
-<details>
-<summary>VIEW CHAPTER DETAILS</summary>
-<ul>
-<li>Hello Python ------------------------ 50 xp</li>
-<li>The Python Interface -------------- 100 xp</li>
-<li>When to use Python? --------------- 50 xp</li>
-<li>Any comments? -------------------- 100 xp</li>
-<li>Python as a calculator ------------- 100 xp</li>
-<li>Variables and Types ----------------- 50 xp</li>
-<li>Variable Assignment --------------- 100 xp</li>
-<li>Calculations with variables -------- 100 xp</li>
-<li>Other variable types --------------- 100 xp</li>
-<li>Guess the type ---------------------- 50 xp</li>
-<li>Operations with other types ------ 100 xp</li>
-<li>Type conversion ------------------- 100 xp</li>
-<li>Can Python handle everything? ---- 50 xp</li>
-</ul>
-</details>
-
-<br>
-
-**1 Python Basics**
-
-An introduction to the basic concepts of Python. Learn how to use Python interactively and by using a script. Create your first variables and acquaint yourself with Python's basic data types.
+Learn to store, access, and manipulate data in lists: the first step toward efficiently working with huge amounts of data.
 
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
@@ -87,9 +62,34 @@ An introduction to the basic concepts of Python. Learn how to use Python interac
 
 <br>
 
-**1 Python Basics**
+**3 Functions and Packages**
 
-An introduction to the basic concepts of Python. Learn how to use Python interactively and by using a script. Create your first variables and acquaint yourself with Python's basic data types.
+You'll learn how to use functions, methods, and packages to efficiently leverage the code that brilliant Python developers have written. The goal is to reduce the amount of code you need to solve challenging problems!
+
+<details>
+<summary>VIEW CHAPTER DETAILS</summary>
+<ul>
+<li>Hello Python ------------------------ 50 xp</li>
+<li>The Python Interface -------------- 100 xp</li>
+<li>When to use Python? --------------- 50 xp</li>
+<li>Any comments? -------------------- 100 xp</li>
+<li>Python as a calculator ------------- 100 xp</li>
+<li>Variables and Types ----------------- 50 xp</li>
+<li>Variable Assignment --------------- 100 xp</li>
+<li>Calculations with variables -------- 100 xp</li>
+<li>Other variable types --------------- 100 xp</li>
+<li>Guess the type ---------------------- 50 xp</li>
+<li>Operations with other types ------ 100 xp</li>
+<li>Type conversion ------------------- 100 xp</li>
+<li>Can Python handle everything? ---- 50 xp</li>
+</ul>
+</details>
+
+<br>
+
+**4 NumPy**
+
+NumPy is a fundamental Python package to efficiently practice data science. Learn to work with powerful tools in the NumPy array, and get started with data exploration.
 
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
