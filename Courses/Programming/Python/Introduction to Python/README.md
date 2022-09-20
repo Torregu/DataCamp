@@ -94,6 +94,7 @@ NumPy is a fundamental Python package to efficiently practice data science. Lear
 
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
+  
   +	NumPy --------------------------------------------------------------------------------------------------------------------- 50 xp
   + Your First NumPy Array -------------------------------------------------------------------------------------------------- 100 xp
   + Baseball players' height -------------------------------------------------------------------------------------------------- 100 xp
@@ -110,7 +111,6 @@ NumPy is a fundamental Python package to efficiently practice data science. Lear
   + Average versus median -------------------------------------------------------------------------------------------------- 100 xp
   + Explore the baseball data ------------------------------------------------------------------------------------------------ 100 xp
   + Blend it all together ------------------------------------------------------------------------------------------------------ 100 xp
-
 </details>
 
 <br><br>
