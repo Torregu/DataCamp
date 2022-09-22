@@ -1,6 +1,5 @@
 SKILL TRACK
-
-**Python Fundamentals**
+# Python Fundamentals
 
 Are you ready to gain the foundational skills you need to become a Python programmer? In this track, you'll learn the Python basics you need to start on your programming journey, including how to clean real-world data ready for analysis, use data visualization libraries, and even how to write your own Python functions.
 
