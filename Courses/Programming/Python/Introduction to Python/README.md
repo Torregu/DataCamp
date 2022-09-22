@@ -12,7 +12,7 @@ Python is a general-purpose programming language that is becoming ever more popu
 
 <br><br>
 
-**1 Python Basics**
+[**1 Python Basics**](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics)
 
 An introduction to the basic concepts of Python. Learn how to use Python interactively and by using a script. Create your first variables and acquaint yourself with Python's basic data types.
 
