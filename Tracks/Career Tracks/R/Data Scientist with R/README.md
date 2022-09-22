@@ -19,7 +19,7 @@ R Language
 + [Introduction to Data Visualization with ggplot2](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/R/Introduction%20to%20Data%20Visualization%20with%20ggplot2)
 + [Intermediate Data Visualization with ggplot2](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/R/Intermediate%20Data%20Visualization%20with%20ggplot2)
 + SKILL ASSESSMENT <br>
-  [Data Manipulation with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Data%20Manipulation%20with%20R)
+  [Data Manipulation with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/R/Data%20Manipulation%20with%20R)
 + [Reporting with R Markdown](https://github.com/Torregu/DataCamp/tree/main/Courses/Reporting/R/Reporting%20with%20R%20Markdown)
 + [Data Communication Concepts](https://github.com/Torregu/DataCamp/tree/main/Courses/Reporting/Theory/Data%20Communication%20Concepts)
 + [Introduction to Importing Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20Data/R/Introduction%20to%20Importing%20Data%20in%20R)
@@ -27,10 +27,10 @@ R Language
 + [Cleaning Data in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20Data/R/Cleaning%20Data%20in%20R)
 + [Working with Dates and Times in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/R/Working%20with%20Dates%20and%20Times%20in%20R)
 + SKILL ASSEMENT <br> 
-  [Importing & Cleaning Data with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Importing%20&%20Cleaning%20Data%20with%20R)
+  [Importing & Cleaning Data with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/R/Importing%20&%20Cleaning%20Data%20with%20R)
 + [Introduction to Writing Functions in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/R/Introduction%20to%20Writing%20Functions%20in%20R)
 + SKILL ASSESSMENT <br>
-  [R Programming](https://github.com/Torregu/DataCamp/tree/main/Assessments/R%20Programming)
+  [R Programming](https://github.com/Torregu/DataCamp/tree/main/Assessments/R/R%20Programming)
 + [Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/R/Exploratory%20Data%20Analysis%20in%20R)
 + [Case Study: Exploratory Data Analysis in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Case%20Studies/R/Case%20Study%20I%20Exploratory%20Data%20Analysis%20in%20R)
 + [Introduction to Regression in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/R/Introduction%20to%20Regression%20in%20R)
@@ -38,7 +38,7 @@ R Language
 + [Sampling in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/R/Sampling%20in%20R)
 + [Hypothesis Testing in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Probability%20&%20Statistics/R/Hypothesis%20Testing%20in%20R)
 + SKILL ASSESSMENT <br>
-  [Statistics Fundamentals with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/Statistics%20Fundamentals%20with%20R)
+  [Statistics Fundamentals with R](https://github.com/Torregu/DataCamp/tree/main/Assessments/R/Statistics%20Fundamentals%20with%20R)
 + [Supervised Learning in R: Classification](https://github.com/Torregu/DataCamp/tree/main/Courses/Machine%20Learning/R/Supervised%20Learning%20in%20R%20I%20Classification)
 + [Supervised Learning in R: Regression](https://github.com/Torregu/DataCamp/tree/main/Courses/Machine%20Learning/R/Supervised%20Learning%20in%20R%20I%20Regression)
 + [Unsupervised Learning in R](https://github.com/Torregu/DataCamp/tree/main/Courses/Machine%20Learning/R/Unsupervised%20Learning%20in%20R)
