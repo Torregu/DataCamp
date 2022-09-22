@@ -9,3 +9,8 @@ Python
 15 hours
 4 Courses
 1 Skill Assessment
+
++ [Introduction to Python](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python)
++ [Intermediate Python](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Intermediate%20Python)
++ [Python Data Science Toolbox (Part 1)](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Python%20Data%20Science%20Toolbox%20(Part%201))
++ [Python Data Science Toolbox (Part 2)](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Python%20Data%20Science%20Toolbox%20(Part%202))
