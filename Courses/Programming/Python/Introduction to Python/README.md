@@ -19,7 +19,7 @@ An introduction to the basic concepts of Python. Learn how to use Python interac
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
 <ul>
-<li>[Hello Python](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/1.%20Hello%20Python) --------------------------------------------------------------------------------------------------------------- 50 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/1.%20Hello%20Python">Hello Python</a> --------------------------------------------------------------------------------------------------------------- 50 xp</li>
 <li>The Python Interface ----------------------------------------------------------------------------------------------------- 100 xp</li>
 <li>When to use Python? ------------------------------------------------------------------------------------------------------ 50 xp</li>
 <li>Any comments? ----------------------------------------------------------------------------------------------------------- 100 xp</li>
