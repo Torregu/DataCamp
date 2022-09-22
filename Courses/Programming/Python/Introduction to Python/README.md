@@ -20,13 +20,13 @@ An introduction to the basic concepts of Python. Learn how to use Python interac
 <summary>VIEW CHAPTER DETAILS</summary>
 <ul>
 <li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/1.%20Hello%20Python">Hello Python</a> --------------------------------------------------------------------------------------------------------------- 50 xp</li>
-<li>The Python Interface ----------------------------------------------------------------------------------------------------- 100 xp</li>
-<li>When to use Python? ------------------------------------------------------------------------------------------------------ 50 xp</li>
-<li>Any comments? ----------------------------------------------------------------------------------------------------------- 100 xp</li>
-<li>Python as a calculator ---------------------------------------------------------------------------------------------------- 100 xp</li>
-<li>Variables and Types -------------------------------------------------------------------------------------------------------- 50 xp</li>
-<li>Variable Assignment ------------------------------------------------------------------------------------------------------ 100 xp</li>
-<li>Calculations with variables ----------------------------------------------------------------------------------------------- 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/2.%20The%20Python%20Interface">The Python Interface</a> ----------------------------------------------------------------------------------------------------- 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/3.%20When%20to%20use%20Python">When to use Python?</a> ------------------------------------------------------------------------------------------------------ 50 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/4.%20Any%20comments">Any comments?</a> ----------------------------------------------------------------------------------------------------------- 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/5.%20Python%20as%20a%20calculator">Python as a calculator</a> ---------------------------------------------------------------------------------------------------- 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/6.%20Variable%20and%20Types">Variables and Types</a> -------------------------------------------------------------------------------------------------------- 50 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/7.%20Variable%20Assignment">Variable Assignment</a> ------------------------------------------------------------------------------------------------------ 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/8.%20Calculations%20with%20variables">Calculations with variables</a> ----------------------------------------------------------------------------------------------- 100 xp</li>
 <li>Other variable types ------------------------------------------------------------------------------------------------------ 100 xp</li>
 <li>Guess the type ------------------------------------------------------------------------------------------------------------- 50 xp</li>
 <li>Operations with other types --------------------------------------------------------------------------------------------- 100 xp</li>
