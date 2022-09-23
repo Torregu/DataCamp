@@ -28,10 +28,10 @@ An introduction to the basic concepts of Python. Learn how to use Python interac
 <li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/7.%20Variable%20Assignment">Variable Assignment</a> ------------------------------------------------------------------------------------------------------ 100 xp</li>
 <li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/8.%20Calculations%20with%20variables">Calculations with variables</a> ----------------------------------------------------------------------------------------------- 100 xp</li>
 <li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/9.%20Other%20variable%20types">Other variable types</a> ------------------------------------------------------------------------------------------------------ 100 xp</li>
-<li>Guess the type ------------------------------------------------------------------------------------------------------------- 50 xp</li>
-<li>Operations with other types --------------------------------------------------------------------------------------------- 100 xp</li>
-<li>Type conversion ---------------------------------------------------------------------------------------------------------- 100 xp</li>
-<li>Can Python handle everything? ------------------------------------------------------------------------------------------- 50 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/10.%20Guess%20the%20type">Guess the type</a> ------------------------------------------------------------------------------------------------------------- 50 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/11.%20Operations%20with%20other%20types">Operations with other types</a> --------------------------------------------------------------------------------------------- 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/12.%20Type%20conversion">Type conversion</a> ---------------------------------------------------------------------------------------------------------- 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/13.%20Can%20Python%20handle%20everything">Can Python handle everything?</a> ------------------------------------------------------------------------------------------- 50 xp</li>
 </ul>
 </details>
 
