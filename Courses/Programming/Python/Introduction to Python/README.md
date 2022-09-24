@@ -44,28 +44,28 @@ Learn to store, access, and manipulate data in lists: the first step toward effi
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
 <ul>
-<li>Python Lists ---------------------------------------------------------------------------------------------------------------- 50 xp</li>
-<li>Create a list --------------------------------------------------------------------------------------------------------------- 100 xp</li>
-<li>Create list with different types ------------------------------------------------------------------------------------------- 100 xp</li>
-<li>Select the valid list --------------------------------------------------------------------------------------------------------- 50 xp</li>
-<li>List of lists ----------------------------------------------------------------------------------------------------------------- 100 xp</li>
-<li>Subsetting Lists ------------------------------------------------------------------------------------------------------------ 50 xp</li>
-<li>Subset and conquer ------------------------------------------------------------------------------------------------------ 100 xp</li>
-<li>Subset and calculate ------------------------------------------------------------------------------------------------------ 100 xp</li>
-<li>Slicing and dicing --------------------------------------------------------------------------------------------------------- 100 xp</li>
-<li>Slicing and dicing (2) ----------------------------------------------------------------------------------------------------- 100 xp</li>
-<li>Subsetting lists of lists ----------------------------------------------------------------------------------------------------- 50 xp</li>
-<li>Manipulating Lists --------------------------------------------------------------------------------------------------------- 50 xp</li>
-<li>Replace list elements ----------------------------------------------------------------------------------------------------- 100 xp</li>
-<li>Extend a list --------------------------------------------------------------------------------------------------------------- 100 xp</li>
-<li>Delete list elements -------------------------------------------------------------------------------------------------------- 50 xp</li>
-<li>Inner workings of lists ---------------------------------------------------------------------------------------------------- 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/1.%20Python%20Lists">Python Lists</a> ---------------------------------------------------------------------------------------------------------------- 50 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/2.%20Create%20a%20list">Create a list</a> --------------------------------------------------------------------------------------------------------------- 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/3.%20Create%20list%20with%20different%20types">Create list with different types</a> ------------------------------------------------------------------------------------------- 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/4.%20Select%20the%20valid%20list">Select the valid list</a> --------------------------------------------------------------------------------------------------------- 50 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/5.%20List%20of%20lists">List of lists</a> ----------------------------------------------------------------------------------------------------------------- 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/6.%20Subsetting%20Lists">Subsetting Lists</a> ------------------------------------------------------------------------------------------------------------ 50 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/7.%20Subset%20and%20conquer">Subset and conquer</a> ------------------------------------------------------------------------------------------------------ 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/8.%20Subset%20and%20calculate">Subset and calculate</a> ------------------------------------------------------------------------------------------------------ 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/9.%20Slicing%20and%20dicing">Slicing and dicing</a> --------------------------------------------------------------------------------------------------------- 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/10.%20Slicing%20and%20dicing%20(2)">Slicing and dicing (2)</a> ----------------------------------------------------------------------------------------------------- 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/11.%20Subsetting%20lists%20of%20lists">Subsetting lists of lists</a> ----------------------------------------------------------------------------------------------------- 50 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/12.%20Manipulating%20Lists">Manipulating Lists</a> --------------------------------------------------------------------------------------------------------- 50 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/13.%20Replace%20list%20elements">Replace list elements</a> ----------------------------------------------------------------------------------------------------- 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/14.%20Extend%20a%20list">Extend a list</a> --------------------------------------------------------------------------------------------------------------- 100 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/15.%20Delete%20list%20elements">Delete list elements</a> -------------------------------------------------------------------------------------------------------- 50 xp</li>
+<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/2%20Python%20Lists/16.%20Inner%20workings%20of%20lists">Inner workings of lists</a> ---------------------------------------------------------------------------------------------------- 100 xp</li>
 </ul>
 </details>
 
 <br>
 
-**3 Functions and Packages**
+[**3 Functions and Packages**](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages)
 
 You'll learn how to use functions, methods, and packages to efficiently leverage the code that brilliant Python developers have written. The goal is to reduce the amount of code you need to solve challenging problems!
 
