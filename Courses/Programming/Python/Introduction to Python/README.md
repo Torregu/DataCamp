@@ -65,7 +65,7 @@ Learn to store, access, and manipulate data in lists: the first step toward effi
 
 <br>
 
-**3 Functions and Packages**
+[**3 Functions and Packages**](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages)
 
 You'll learn how to use functions, methods, and packages to efficiently leverage the code that brilliant Python developers have written. The goal is to reduce the amount of code you need to solve challenging problems!
 
