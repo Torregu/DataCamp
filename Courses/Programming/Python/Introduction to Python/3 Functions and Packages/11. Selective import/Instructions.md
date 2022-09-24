@@ -1,0 +1,3 @@
++ Perform a selective import from the `math` package where you only import the `radians` function.
++ Calculate the distance travelled by the Moon over 12 degrees of its orbit. Assign the result to `dist`. You can calculate this as `r * phi`, where `r` is the radius and `phi` is the angle in radians. To convert an angle in degrees to an angle in radians, use the [**`radians()`**](https://docs.python.org/3/library/math.html#math.radians) function, which you just imported.
++ Print out `dist`.
