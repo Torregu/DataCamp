@@ -2,7 +2,7 @@
 + Use `np_height_m` and `np_weight_kg` to calculate the BMI of each player. Use the following equation:
  
 $$
-BMI=\dfrac{weight(kg)}{height(m)^2}
+\text{BMI}=\frac{\text{weight(kg)}}{\text{height(m)}^2}
 $$
 
 + Save the resulting numpy array as bmi.
