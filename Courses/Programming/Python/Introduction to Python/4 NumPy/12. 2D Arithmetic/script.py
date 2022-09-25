@@ -12,7 +12,7 @@ url_data = "https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/" 
 baseball = pd.read_csv(url_data, sep = ",", decimal = ".", header = 0)[["Height", "Weight", "Age"]].values.tolist()
 updated = pd.read_csv("https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/" + \
 		      "Python/Introduction%20to%20Python/datasets/update.csv?raw=true", header = None).values 
-# .to_numpy may also be used instead of .values
+# + .to_numpy may also be used instead of .values
 
 # Import numpy package
 import numpy as np
