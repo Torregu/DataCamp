@@ -6,6 +6,9 @@ For a fancy clustering algorithm, you want to find the circumference, $C$, and a
 
 $$
 C=2\pi r
+$$
+
+$$
 A=\pi r^2
 $$
 
