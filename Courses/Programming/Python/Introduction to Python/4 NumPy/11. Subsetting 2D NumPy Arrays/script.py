@@ -7,7 +7,7 @@ import pandas as pd
 url_data = "https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/" + \
            "Python/Introduction%20to%20Python/datasets/baseball.csv?raw=true"
 
-# + Read the csv from url_data then select the fields "Height" "Weight", convert the entries into lists and create a list of these lists
+# + Read the csv from url_data then select the fields "Height" "Weight", convert the entries into 'lists' and create a list of these lists
 baseball = pd.read_csv(url_data, sep = ",", decimal = ".", header = 0)[["Height", "Weight"]].values.tolist()
 
 # Import numpy package
