@@ -11,7 +11,8 @@ url_data = "https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/" 
 # + Read the csv from url_data then select the fields "Height" "Weight" "Age", convert the entries into lists and create a list of these lists
 baseball = pd.read_csv(url_data, sep = ",", decimal = ".", header = 0)[["Height", "Weight", "Age"]].values.tolist()
 updated = pd.read_csv("https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/" + \
-		      "Python/Introduction%20to%20Python/datasets/update.csv?raw=true", header = None).values
+		      "Python/Introduction%20to%20Python/datasets/update.csv?raw=true", header = None).values 
+# .to_numpy may also be used instead of .values
 
 # Import numpy package
 import numpy as np
