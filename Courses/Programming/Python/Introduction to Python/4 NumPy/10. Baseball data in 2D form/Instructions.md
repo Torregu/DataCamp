@@ -1,0 +1,2 @@
++ Use [**`np.array()`**](http://docs.scipy.org/doc/numpy-1.10.0/glossary.html#term-array) to create a 2D `numpy` array from `baseball`. Name it `np_baseball`.
++ Print out the `shape` attribute of `np_baseball`.
