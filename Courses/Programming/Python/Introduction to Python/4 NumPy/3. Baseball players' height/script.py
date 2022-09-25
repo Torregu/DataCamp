@@ -8,7 +8,7 @@ url_data = "https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/" 
            "Python/Introduction%20to%20Python/datasets/baseball.csv?raw=true"
 
 # + Read the csv from url_data and then select the "Height" field, convert it into a list and finally save it in height_in
-height_in = pd.read_csv(url_data, sep = ",", decimal = ".", header = 0).Height.to_list()
+height_in = pd.read_csv(url_data, sep = ",", decimal = ".", header = 0).Height.tolist()
 
 # Import numpy
 import numpy as np
