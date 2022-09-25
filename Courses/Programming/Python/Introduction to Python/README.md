@@ -123,7 +123,7 @@ This course is part of these tracks:
 
 **DATASETS**
 
-[**MLB (baseball)**]()
+[**MLB (baseball)**](https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/Python/Introduction%20to%20Python/datasets/baseball.csv?raw=true)
 
-[**FIFA (soccer)**]()
+[**FIFA (soccer)**](https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/Python/Introduction%20to%20Python/datasets/fifa.csv?raw=true)
 
