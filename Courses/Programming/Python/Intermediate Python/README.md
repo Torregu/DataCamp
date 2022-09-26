@@ -55,18 +55,25 @@ Learn about the dictionary, an alternative to the Python list, and the pandas Da
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
 
-  + [Functions](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/1.%20Functions) ------------------------------------------------------------------------------------------------------------------- 50 xp
-  + [Familiar functions](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/2.%20Familiar%20functions) --------------------------------------------------------------------------------------------------------- 100 xp
-  + [Help!](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/3.%20Help!) ------------------------------------------------------------------------------------------------------------------------ 50 xp
-  + [Multiple arguments](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/4.%20Multiple%20arguments) ------------------------------------------------------------------------------------------------------- 100 xp
-  + [Methods](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/5.%20Methods) -------------------------------------------------------------------------------------------------------------------- 50 xp
-  + [String Methods](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/6.%20String%20Methods) ----------------------------------------------------------------------------------------------------------- 100 xp
-  + [List Methods](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/7.%20List%20Methods) -------------------------------------------------------------------------------------------------------------- 100 xp
-  + [List Methods (2)](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/8.%20List%20Methods%20(2)) ---------------------------------------------------------------------------------------------------------- 100 xp
-  + [Packages](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/9.%20Packages) ------------------------------------------------------------------------------------------------------------------- 50 xp
-  + [Import package](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/10.%20Import%20package) ----------------------------------------------------------------------------------------------------------- 100 xp
-  + [Selective import](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/11.%20Selective%20import) ---------------------------------------------------------------------------------------------------------- 100 xp
-  + [Different ways of importing](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/12.%20Different%20ways%20of%20importing) ----------------------------------------------------------------------------------------------- 50 xp
+  + Dictionaries, Part 1 --------------------------------------------------------------------------------------------------------- 50 xp
+  + Motivation for dictionaries ----------------------------------------------------------------------------------------------- 100 xp
+  + Create dictionary --------------------------------------------------------------------------------------------------------- 100 xp
+  + Access dictionary --------------------------------------------------------------------------------------------------------- 100 xp
+  + Dictionaries, Part 2 --------------------------------------------------------------------------------------------------------- 50 xp
+  + Dictionary Manipulation (1) ---------------------------------------------------------------------------------------------- 100 xp
+  + Dictionary Manipulation (2) ---------------------------------------------------------------------------------------------- 100 xp
+  + Dictionariception --------------------------------------------------------------------------------------------------------- 100 xp
+  + Pandas, Part 1 -------------------------------------------------------------------------------------------------------------- 50 xp
+  + Dictionary to DataFrame (1) ---------------------------------------------------------------------------------------------- 100 xp
+  + Dictionary to DataFrame (2) ---------------------------------------------------------------------------------------------- 100 xp
+  + CSV to DataFrame (1) ----------------------------------------------------------------------------------------------------- 100 xp
+  + CSV to DataFrame (2) ----------------------------------------------------------------------------------------------------- 100 xp
+  + Pandas, Part 2 -------------------------------------------------------------------------------------------------------------- 50 xp
+  + Square Brackets (1) ------------------------------------------------------------------------------------------------------- 100 xp
+  + Square Brackets (2) ------------------------------------------------------------------------------------------------------- 100 xp
+  + loc and iloc (1) ------------------------------------------------------------------------------------------------------------ 100 xp
+  + loc and iloc (2) ------------------------------------------------------------------------------------------------------------ 100 xp
+  + loc and iloc (3) ------------------------------------------------------------------------------------------------------------ 100 xp
 </details>
 
 <br>
@@ -77,19 +84,25 @@ Boolean logic is the foundation of decision-making in Python programs. Learn abo
 
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
-  
-  + [Functions](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/1.%20Functions) ------------------------------------------------------------------------------------------------------------------- 50 xp
-  + [Familiar functions](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/2.%20Familiar%20functions) --------------------------------------------------------------------------------------------------------- 100 xp
-  + [Help!](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/3.%20Help!) ------------------------------------------------------------------------------------------------------------------------ 50 xp
-  + [Multiple arguments](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/4.%20Multiple%20arguments) ------------------------------------------------------------------------------------------------------- 100 xp
-  + [Methods](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/5.%20Methods) -------------------------------------------------------------------------------------------------------------------- 50 xp
-  + [String Methods](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/6.%20String%20Methods) ----------------------------------------------------------------------------------------------------------- 100 xp
-  + [List Methods](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/7.%20List%20Methods) -------------------------------------------------------------------------------------------------------------- 100 xp
-  + [List Methods (2)](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/8.%20List%20Methods%20(2)) ---------------------------------------------------------------------------------------------------------- 100 xp
-  + [Packages](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/9.%20Packages) ------------------------------------------------------------------------------------------------------------------- 50 xp
-  + [Import package](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/10.%20Import%20package) ----------------------------------------------------------------------------------------------------------- 100 xp
-  + [Selective import](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/11.%20Selective%20import) ---------------------------------------------------------------------------------------------------------- 100 xp
-  + [Different ways of importing](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/12.%20Different%20ways%20of%20importing) ----------------------------------------------------------------------------------------------- 50 xp
++Dictionaries, Part 1 --------------------------------------------------------------------------------------------------------- 50 xp
+•	Motivation for dictionaries ----------------------------------------------------------------------------------------------- 100 xp
+•	Create dictionary --------------------------------------------------------------------------------------------------------- 100 xp
+•	Access dictionary --------------------------------------------------------------------------------------------------------- 100 xp
+•	Dictionaries, Part 2 --------------------------------------------------------------------------------------------------------- 50 xp
+•	Dictionary Manipulation (1) ---------------------------------------------------------------------------------------------- 100 xp
+•	Dictionary Manipulation (2) ---------------------------------------------------------------------------------------------- 100 xp
+•	Dictionariception --------------------------------------------------------------------------------------------------------- 100 xp
+•	Pandas, Part 1 -------------------------------------------------------------------------------------------------------------- 50 xp
+•	Dictionary to DataFrame (1) ---------------------------------------------------------------------------------------------- 100 xp
+•	Dictionary to DataFrame (2) ---------------------------------------------------------------------------------------------- 100 xp
+•	CSV to DataFrame (1) ----------------------------------------------------------------------------------------------------- 100 xp
+•	CSV to DataFrame (2) ----------------------------------------------------------------------------------------------------- 100 xp
+•	Pandas, Part 2 -------------------------------------------------------------------------------------------------------------- 50 xp
+•	Square Brackets (1) ------------------------------------------------------------------------------------------------------- 100 xp
+•	Square Brackets (2) ------------------------------------------------------------------------------------------------------- 100 xp
+•	loc and iloc (1) ------------------------------------------------------------------------------------------------------------ 100 xp
+•	loc and iloc (2) ------------------------------------------------------------------------------------------------------------ 100 xp
+•	loc and iloc (3) ------------------------------------------------------------------------------------------------------------ 100 xp
 </details>
 
 <br>
