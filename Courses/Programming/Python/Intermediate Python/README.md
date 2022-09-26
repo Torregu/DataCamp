@@ -25,18 +25,25 @@ Data visualization is a key skill for aspiring data scientists. Matplotlib makes
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
 
-  + [Functions](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/1.%20Functions) ------------------------------------------------------------------------------------------------------------------- 50 xp
-  + [Familiar functions](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/2.%20Familiar%20functions) --------------------------------------------------------------------------------------------------------- 100 xp
-  + [Help!](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/3.%20Help!) ------------------------------------------------------------------------------------------------------------------------ 50 xp
-  + [Multiple arguments](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/4.%20Multiple%20arguments) ------------------------------------------------------------------------------------------------------- 100 xp
-  + [Methods](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/5.%20Methods) -------------------------------------------------------------------------------------------------------------------- 50 xp
-  + [String Methods](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/6.%20String%20Methods) ----------------------------------------------------------------------------------------------------------- 100 xp
-  + [List Methods](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/7.%20List%20Methods) -------------------------------------------------------------------------------------------------------------- 100 xp
-  + [List Methods (2)](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/8.%20List%20Methods%20(2)) ---------------------------------------------------------------------------------------------------------- 100 xp
-  + [Packages](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/9.%20Packages) ------------------------------------------------------------------------------------------------------------------- 50 xp
-  + [Import package](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/10.%20Import%20package) ----------------------------------------------------------------------------------------------------------- 100 xp
-  + [Selective import](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/11.%20Selective%20import) ---------------------------------------------------------------------------------------------------------- 100 xp
-  + [Different ways of importing](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/12.%20Different%20ways%20of%20importing) ----------------------------------------------------------------------------------------------- 50 xp
+  + Basic plots with Matplotlib ------------------------------------------------------------------------------------------------ 50 xp
+  + Line plot (1) --------------------------------------------------------------------------------------------------------------- 100 xp
+  + Line Plot (2): Interpretation ------------------------------------------------------------------------------------------------ 50 xp
+  + Line plot (3) --------------------------------------------------------------------------------------------------------------- 100 xp
+  + Scatter Plot (1) ------------------------------------------------------------------------------------------------------------ 100 xp
+  + Scatter plot (2) ------------------------------------------------------------------------------------------------------------ 100 xp
+  + Histogram ------------------------------------------------------------------------------------------------------------------ 50 xp
+  + Build a histogram (1) ----------------------------------------------------------------------------------------------------- 100 xp
+  + Build a histogram (2): bins ----------------------------------------------------------------------------------------------- 100 xp
+  + Build a histogram (3): compare ------------------------------------------------------------------------------------------ 100 xp
+  + Choose the right plot (1) -------------------------------------------------------------------------------------------------- 50 xp
+  + Choose the right plot (2) -------------------------------------------------------------------------------------------------- 50 xp
+  + Customization ------------------------------------------------------------------------------------------------------------- 50 xp
+  + Labels --------------------------------------------------------------------------------------------------------------------- 100 xp
+  + Ticks ---------------------------------------------------------------------------------------------------------------------- 100 xp
+  + Sizes ---------------------------------------------------------------------------------------------------------------------- 100 xp
+  + Colors --------------------------------------------------------------------------------------------------------------------- 100 xp
+  + Additional Customizations ----------------------------------------------------------------------------------------------- 100 xp
+  + Interpretation ------------------------------------------------------------------------------------------------------------------ 50 xp
 </details>
 
 <br>
