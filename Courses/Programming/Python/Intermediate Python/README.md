@@ -151,7 +151,12 @@ This course is part of these tracks:
 
 **DATASETS**
 
-[**MLB (baseball)**](https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/Python/Introduction%20to%20Python/datasets/baseball.csv?raw=true)
+[**Gapminder**](https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/Python/Intermediate%20Python/datasets/gapminder.csv?raw=true)
 
-[**FIFA (soccer)**](https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/Python/Introduction%20to%20Python/datasets/fifa.csv?raw=true)
+[**Cars**](https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/Python/Intermediate%20Python/datasets/cars.csv?raw=true)
+
+[**BRICS**](https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/Python/Intermediate%20Python/datasets/brics.csv?raw=true)
+
+
+
 
