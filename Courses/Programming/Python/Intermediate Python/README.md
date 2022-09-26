@@ -157,6 +157,10 @@ This course is part of these tracks:
 
 [**BRICS**](https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/Python/Intermediate%20Python/datasets/brics.csv?raw=true)
 
+**PREREQUISITES**
+
+[**Introduction to Python**](https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/Python/Introduction%20to%20Python)
+
 
 
 
