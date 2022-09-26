@@ -88,7 +88,7 @@ You'll learn how to use functions, methods, and packages to efficiently leverage
 
 <br>
 
-**4 NumPy**
+[**4 NumPy**](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy)
 
 NumPy is a fundamental Python package to efficiently practice data science. Learn to work with powerful tools in the NumPy array, and get started with data exploration.
 
