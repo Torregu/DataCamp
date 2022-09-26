@@ -1,0 +1,19 @@
+1. Basic plots with Matplotlib
+2. Line plot (1)
+3. Line Plot (2): Interpretation
+4. Line plot (3)
+5. Scatter Plot (1)
+6. Scatter plot (2)
+7. Histogram
+8. Build a histogram (1)
+9. Build a histogram (2): bins
+10. Build a histogram (3): compare
+11. Choose the right plot (1)
+12. Choose the right plot (2)
+13. Customization
+14. Labels
+15. Ticks
+16. Sizes
+17. Colors
+18. Additional Customizations
+19. Interpretation
