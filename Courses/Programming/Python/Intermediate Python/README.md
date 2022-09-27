@@ -141,23 +141,21 @@ This chapter will allow you to apply all the concepts you've learned in this cou
 
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
-  
-  +	[NumPy](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/1.%20NumPy) --------------------------------------------------------------------------------------------------------------------- 50 xp
-  + [Your First NumPy Array](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/2.%20Your%20First%20NumPy%20Array) -------------------------------------------------------------------------------------------------- 100 xp
-  + [Baseball players' height](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/3.%20Baseball%20players'%20height) -------------------------------------------------------------------------------------------------- 100 xp
-  + [Baseball player's BMI](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/4.%20Baseball%20player's%20BMI) ----------------------------------------------------------------------------------------------------- 100 xp
-  + [Lightweight baseball players](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/5.%20Lightweight%20baseball%20players) --------------------------------------------------------------------------------------------- 100 xp
-  + [NumPy Side Effects](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/6.%20NumPy%20Side%20Effects) -------------------------------------------------------------------------------------------------------- 50 xp
-  + [Subsetting NumPy Arrays](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/7.%20Subsetting%20NumPy%20Arrays) ------------------------------------------------------------------------------------------------ 100 xp
-  + [2D NumPy Arrays](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/8.%202D%20NumPy%20Arrays) ---------------------------------------------------------------------------------------------------------- 50 xp
-  + [Your First 2D NumPy Array](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/9.%20Your%20First%202D%20NumPy%20Array) ----------------------------------------------------------------------------------------------- 100 xp
-  + [Baseball data in 2D form](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/10.%20Baseball%20data%20in%202D%20form) ------------------------------------------------------------------------------------------------- 100 xp
-  + [Subsetting 2D NumPy Arrays](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/11.%20Subsetting%202D%20NumPy%20Arrays) -------------------------------------------------------------------------------------------- 100 xp
-  + [2D Arithmetic](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/12.%202D%20Arithmetic) ------------------------------------------------------------------------------------------------------------- 100 xp
-  + [NumPy: Basic Statistics](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/13.%20NumPy%20I%20Basic%20Statistics) ---------------------------------------------------------------------------------------------------- 50 xp
-  + [Average versus median](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/14.%20Average%20versus%20median) -------------------------------------------------------------------------------------------------- 100 xp
-  + [Explore the baseball data](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/15.%20Explore%20the%20baseball%20data) ------------------------------------------------------------------------------------------------ 100 xp
-  + [Blend it all together](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/4%20NumPy/16.%20Blend%20it%20all%20together) ------------------------------------------------------------------------------------------------------ 100 xp
+
+  +	Random Numbers -------------------------------------------------------------------------------------------------------- 50 xp
+  + Random float ------------------------------------------------------------------------------------------------------------ 100 xp
+  + Roll the dice ------------------------------------------------------------------------------------------------------------- 100 xp
+  + Determine your next move --------------------------------------------------------------------------------------------- 100 xp
+  + Random Walk ------------------------------------------------------------------------------------------------------------ 50 xp
+  + The next step ----------------------------------------------------------------------------------------------------------- 100 xp
+  + How low can you go? -------------------------------------------------------------------------------------------------- 100 xp
+  + Visualize the walk ------------------------------------------------------------------------------------------------------ 100 xp
+  + Distribution -------------------------------------------------------------------------------------------------------------- 50 xp
+  + Simulate multiple walks ------------------------------------------------------------------------------------------------ 100 xp
+  + Visualize all walks ------------------------------------------------------------------------------------------------------ 100 xp
+  + Implement clumsiness ------------------------------------------------------------------------------------------------- 100 xp
+  + Plot the distribution --------------------------------------------------------------------------------------------------- 100 xp
+  + Calculate the odds ------------------------------------------------------------------------------------------------------ 50 xp
 </details>
 
 <br><br>
