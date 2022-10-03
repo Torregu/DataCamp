@@ -26,3 +26,17 @@ This R project assumes you have familiarity with the `ggplot2` package. If you w
 7. Put all it together: the sunflower
 8. What if you modify the angle?
 9. All together now: imaginary flowers
+
+**Technology**
+
+R
+
+**Prerequisites**
+
+Introduction to Data Visualization with ggplot2
+
+**Topics**
+
+**Data Visualization**
+
+**Case Studies**
