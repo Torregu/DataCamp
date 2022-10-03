@@ -162,11 +162,11 @@ This chapter will allow you to apply all the concepts you've learned in this cou
 
 This course is part of these tracks:
 
-[Data Analyst with Python](https://github.com/Torregu/DataCamp/tree/main/Tracks/Career%20Tracks/Python/Data%20Analyst%20with%20Python)
+[**Data Analyst with Python**](https://github.com/Torregu/DataCamp/tree/main/Tracks/Career%20Tracks/Python/Data%20Analyst%20with%20Python)
 
-[Data Scientist with Python](https://github.com/Torregu/DataCamp/tree/main/Tracks/Career%20Tracks/Python/Data%20Scientist%20with%20Python)
+[**Data Scientist with Python**](https://github.com/Torregu/DataCamp/tree/main/Tracks/Career%20Tracks/Python/Data%20Scientist%20with%20Python)
 
-[Python Fundamentals](https://github.com/Torregu/DataCamp/tree/main/Tracks/Skill%20Tracks/Python/Python%20Fundamentals)
+[**Python Fundamentals**](https://github.com/Torregu/DataCamp/tree/main/Tracks/Skill%20Tracks/Python/Python%20Fundamentals)
 
 **DATASETS**
 
