@@ -5,7 +5,7 @@ INTERACTIVE COURSE
 14 Videos
 50 Exercises
 
-## Course Description
+<img src="style-course-description.svg" width="180" height="30" alt="css-in-readme">
 
 SQL is the most popular language for turning raw data stored in a database into actionable insights. Using a database of films made around the world, this course covers:
 
