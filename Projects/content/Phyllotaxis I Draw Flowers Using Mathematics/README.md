@@ -7,7 +7,7 @@ Start Project
 9 tasks
 1500 XP
 
-Project Description
+<img src="style-project-description.svg" width="180" height="30" alt="css-in-readme">
 
 R is a tool for doing serious statistics and data analysis. But not everything in life can be serious, life is also beautiful, and R can make beautiful things too. R can make art.
 
