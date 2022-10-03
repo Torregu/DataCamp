@@ -6,7 +6,7 @@ INTERACTIVE COURSE
 87 Exercises
 7,400 XP
 
-<img src="style-course-description.svg" width="400" height="400" alt="css-in-readme">
+<img src="style-course-description.svg" width="200" height="200" alt="css-in-readme">
 
 Learning Python is crucial for any aspiring data science practitioner. Learn to visualize real data with Matplotlib’s functions and get acquainted with data structures such as the dictionary and pandas DataFrame. This four-hour intermediate course will help you to build on your existing Python skills and explore new Python applications and functions that expand your repertoire and help you work more efficiently.
 
