@@ -3,7 +3,6 @@ PREMIUM PROJECT
 
 Use R to make art and create imaginary flowers inspired by nature.
 
-Start Project
 9 tasks
 1500 XP
 
