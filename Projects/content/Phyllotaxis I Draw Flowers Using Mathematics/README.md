@@ -33,10 +33,10 @@ R
 
 **Prerequisites**
 
-[**Introduction to Data Visualization with ggplot2**]
+[**Introduction to Data Visualization with ggplot2**](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/R/Introduction%20to%20Data%20Visualization%20with%20ggplot2)
 
 **Topics**
 
-**Data Visualization**
+[**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Visualization/R)
 
-**Case Studies**
+[**Case Studies**](https://github.com/Torregu/DataCamp/tree/main/Projects/Case%20Studies/R)
