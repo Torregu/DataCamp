@@ -15,7 +15,7 @@ The arrangement of leaves on a plant stem is ruled by spirals. This fact is call
 
 This R project assumes you have familiarity with the ggplot2 package. If you want to see more examples of how you can use R to make art, you should check out the Fronkonstin blog created by Antonio Sánchez Chinchón.
 
-<img src="style-project-tasks.svg" width="180" height="30" alt="css-in-readme">
+<img src="style-project-tasks.svg" width="130" height="30" alt="css-in-readme">
 
 1. Patterns in nature
 2. Warming up: drawing points on a circle
