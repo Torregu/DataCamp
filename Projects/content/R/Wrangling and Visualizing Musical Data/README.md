@@ -1,30 +1,31 @@
 PREMIUM PROJECT
-# Phyllotaxis: Draw Flowers Using Mathematics
+# Wrangling and Visualizing Musical Data
 
-Use R to make art and create imaginary flowers inspired by nature.
+Wrangle and visualize musical data to find common chords and compare the styles of different artists.
 
-9 tasks
+10 tasks
 1500 XP
 
 <img src="style-project-description.svg" width="180" height="30" alt="css-in-readme">
 
-R is a tool for doing serious statistics and data analysis. But not everything in life can be serious, life is also beautiful, and R can make beautiful things too. R can make art.
+Apply data-wrangling and visualization tools from the tidyverse to musical data. Find the most common chords and chord progressions in a sample of pop/rock music from the 1950s-1990s, and compare the styles of different artists.
 
-The arrangement of leaves on a plant stem is ruled by spirals. This fact is called [**phyllotaxis**](https://en.wikipedia.org/wiki/Phyllotaxis) and it is a nice example of how mathematics can describe patterns in nature. In this project, we will invent flowers using this fact.
+This project assumes familiarity with standard TidyVerse tools for R, in particular the `tibble` data structure and the `dplyr` and `ggplot2` packages. No specific musical knowledge is required, though it may give you ideas for further exploration of the dataset after completing the project.
 
-This R project assumes you have familiarity with the `ggplot2` package. If you want to see more examples of how you can use R to make art, you should check out [**the Fronkonstin blog**](https://fronkonstin.com/) created by Antonio Sánchez Chinchón.
+This project uses a parsed and cleaned version of the [**McGill Billboard Dataset**](http://ddmal.music.mcgill.ca/research/billboard), version 2.0 (CC0 license).
 
 <img src="style-project-tasks.svg" width="130" height="30" alt="css-in-readme">
 
-1. Patterns in nature
-2. Warming up: drawing points on a circle
-3. Make it harmonious with the Golden Angle
-4. Remove everything unnecessary
-5. A bit of makeup: size, color and transparency
-6. Play with aesthetics: the dandelion
-7. Put all it together: the sunflower
-8. What if you modify the angle?
-9. All together now: imaginary flowers
+1. Introduction
+2. The most common chords
+3. Visualizing the most common chords
+4. Chord "bigrams"
+5. Visualizing the most common chord progressions
+6. Finding the most common artists
+7. Tagging the corpus
+8. Comparing chords in piano-driven and guitar-driven songs
+9. Comparing chord bigrams in piano-driven and guitar-driven songs
+10. Conclusion
 
 **Technology**
 
@@ -32,10 +33,10 @@ R
 
 **Prerequisites**
 
+[**Introduction to the Tidyverse**](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Manipulation/R/Introduction%20to%20the%20Tidyverse)
+
 [**Introduction to Data Visualization with ggplot2**](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/R/Introduction%20to%20Data%20Visualization%20with%20ggplot2)
 
 **Topics**
-
-[**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Visualization/R)
 
 [**Case Studies**](https://github.com/Torregu/DataCamp/tree/main/Projects/Case%20Studies/R)
