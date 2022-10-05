@@ -1,3 +1,5 @@
-Guided -> **73 projects** <br>
-Unguided -> **10 projects** <br>
-Guided/Unguided -> **2 projects**
+Guided &rarr; **73 projects**
+
+Unguided &rarr; **10 projects**
+
+Guided/Unguided &rarr; **2 projects**
