@@ -1,4 +1,4 @@
-PREMIUM PROJECT
+FREE PROJECT
 # Wrangling and Visualizing Musical Data
 
 Wrangle and visualize musical data to find common chords and compare the styles of different artists.
@@ -16,16 +16,15 @@ This project uses a parsed and cleaned version of the [**McGill Billboard Datase
 
 <img src="style-project-tasks.svg" width="130" height="30" alt="css-in-readme">
 
-1. Introduction
-2. The most common chords
-3. Visualizing the most common chords
-4. Chord "bigrams"
-5. Visualizing the most common chord progressions
-6. Finding the most common artists
-7. Tagging the corpus
-8. Comparing chords in piano-driven and guitar-driven songs
-9. Comparing chord bigrams in piano-driven and guitar-driven songs
-10. Conclusion
+1. From epidemic to pandemic
+2. Confirmed cases throughout the world
+3. China compared to the rest of the world
+4. Let's annotate!
+5. Adding a trend line to China
+6. And the rest of the world?
+7. Adding a logarithmic scale
+8. Which countries outside of China have been hit hardest?
+9. Plotting hardest hit countries as of Mid-March 2020
 
 **Technology**
 
@@ -38,5 +37,7 @@ R
 [**Introduction to Data Visualization with ggplot2**](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/R/Introduction%20to%20Data%20Visualization%20with%20ggplot2)
 
 **Topics**
+
+[**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Visualization/R)
 
 [**Case Studies**](https://github.com/Torregu/DataCamp/tree/main/Projects/Case%20Studies/R)
