@@ -30,7 +30,7 @@ R
 
 **Prerequisites**
 
-[**Introduction to Importing Data in R**](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20in%20R/R/Introduction%20to%20Importing%20Data%20in%20R)
+[**Introduction to Importing Data in R**](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20Data/R/Introduction%20to%20Importing%20Data%20in%20R)
 
 [**Data Manipulation with dplyr**](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Manipulation/R/Data%20Manipulation%20with%20dplyr)
 
