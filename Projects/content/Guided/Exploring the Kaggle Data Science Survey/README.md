@@ -1,31 +1,30 @@
 PREMIUM PROJECT
-# Wrangling and Visualizing Musical Data
+# Exploring the Kaggle Data Science Survey
 
-Wrangle and visualize musical data to find common chords and compare the styles of different artists.
+Discover the top tools Kaggle participants use for data science and machine learning.
 
-10 tasks
+9 tasks
 1500 XP
 
 <img src="style-project-description.svg" width="180" height="30" alt="css-in-readme">
 
-Apply data-wrangling and visualization tools from the tidyverse to musical data. Find the most common chords and chord progressions in a sample of pop/rock music from the 1950s-1990s, and compare the styles of different artists.
+When beginning a career in data science, one often wonders what programming tools and languages are being used in the industry, and what skills one should learn first. By exploring the 2017 Kaggle Data Science Survey results, you can learn about the tools used by 10,000+ people in the professional data science community.
 
-This project assumes familiarity with standard TidyVerse tools for R, in particular the `tibble` data structure and the `dplyr` and `ggplot2` packages. No specific musical knowledge is required, though it may give you ideas for further exploration of the dataset after completing the project.
+Before starting this project, you should be comfortable manipulating data frames and have some experience working with the tidyverse packages dplyr, tidyr, and ggplot2.
 
-This project uses a parsed and cleaned version of the [**McGill Billboard Dataset**](http://ddmal.music.mcgill.ca/research/billboard), version 2.0 (CC0 license).
+This project uses a subset of the 2017 Kaggle Machine Learning and Data Science Survey dataset. If you want to know more about the tools and techniques Kaggle participants use, check out the full report of the Kaggle 2017 survey results.
 
 <img src="style-project-tasks.svg" width="130" height="30" alt="css-in-readme">
 
-1. Introduction
-2. The most common chords
-3. Visualizing the most common chords
-4. Chord "bigrams"
-5. Visualizing the most common chord progressions
-6. Finding the most common artists
-7. Tagging the corpus
-8. Comparing chords in piano-driven and guitar-driven songs
-9. Comparing chord bigrams in piano-driven and guitar-driven songs
-10. Conclusion
+1. Welcome to the world of data science
+2. Using multiple tools
+3. Counting users of each tool
+4. Plotting the most popular tools
+5. The R vs Python debate
+6. Plotting R vs Python users
+7. Language recommendations
+8. The most recommended language by the language used
+9. The moral of the story
 
 **Technology**
 
