@@ -10,9 +10,9 @@ Discover the top tools Kaggle participants use for data science and machine lear
 
 When beginning a career in data science, one often wonders what programming tools and languages are being used in the industry, and what skills one should learn first. By exploring the 2017 Kaggle Data Science Survey results, you can learn about the tools used by 10,000+ people in the professional data science community.
 
-Before starting this project, you should be comfortable manipulating data frames and have some experience working with the tidyverse packages dplyr, tidyr, and ggplot2.
+Before starting this project, you should be comfortable manipulating data frames and have some experience working with the `tidyverse` packages `dplyr`, `tidyr`, and `ggplot2`.
 
-This project uses a subset of the 2017 Kaggle Machine Learning and Data Science Survey dataset. If you want to know more about the tools and techniques Kaggle participants use, check out the full report of the Kaggle 2017 survey results.
+This project uses a subset of the [**2017 Kaggle Machine Learning and Data Science Survey**](https://www.kaggle.com/kaggle/kaggle-survey-2017?utm_medium=partner&utm_source=datacamp.com&utm_campaign=ml+survey+case+study) dataset. If you want to know more about the tools and techniques Kaggle participants use, check out the full [**report of the Kaggle 2017 survey results**](https://www.kaggle.com/amberthomas/kaggle-2017-survey-results?utm_medium=partner&utm_source=datacamp.com&utm_campaign=ml+survey+case+study).
 
 <img src="style-project-tasks.svg" width="130" height="30" alt="css-in-readme">
 
