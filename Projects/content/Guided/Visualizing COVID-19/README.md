@@ -1,31 +1,28 @@
-PREMIUM PROJECT
-# Wrangling and Visualizing Musical Data
+FREE PROJECT
+# Visualizing COVID-19
 
-Wrangle and visualize musical data to find common chords and compare the styles of different artists.
+Visualize the rise of COVID-19 cases globally with ggplot2.
 
-10 tasks
+9 tasks
 1500 XP
 
 <img src="style-project-description.svg" width="180" height="30" alt="css-in-readme">
 
-Apply data-wrangling and visualization tools from the tidyverse to musical data. Find the most common chords and chord progressions in a sample of pop/rock music from the 1950s-1990s, and compare the styles of different artists.
+Within months, COVID-19 went from an epidemic to a pandemic. From the first identified case in December 2019, how did the virus spread so fast and widely? In this free R project, we will visualize data from the early months of the coronavirus outbreak to see how this virus grew to be a global pandemic.
 
-This project assumes familiarity with standard TidyVerse tools for R, in particular the `tibble` data structure and the `dplyr` and `ggplot2` packages. No specific musical knowledge is required, though it may give you ideas for further exploration of the dataset after completing the project.
-
-This project uses a parsed and cleaned version of the [**McGill Billboard Dataset**](http://ddmal.music.mcgill.ca/research/billboard), version 2.0 (CC0 license).
+This project assumes you can manipulate data frames using `dplyr` and make plots using `ggplot2`.
 
 <img src="style-project-tasks.svg" width="130" height="30" alt="css-in-readme">
 
-1. Introduction
-2. The most common chords
-3. Visualizing the most common chords
-4. Chord "bigrams"
-5. Visualizing the most common chord progressions
-6. Finding the most common artists
-7. Tagging the corpus
-8. Comparing chords in piano-driven and guitar-driven songs
-9. Comparing chord bigrams in piano-driven and guitar-driven songs
-10. Conclusion
+1. From epidemic to pandemic
+2. Confirmed cases throughout the world
+3. China compared to the rest of the world
+4. Let's annotate!
+5. Adding a trend line to China
+6. And the rest of the world?
+7. Adding a logarithmic scale
+8. Which countries outside of China have been hit hardest?
+9. Plotting hardest hit countries as of Mid-March 2020
 
 **Technology**
 
@@ -33,10 +30,14 @@ R
 
 **Prerequisites**
 
-[**Introduction to the Tidyverse**](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/R/Introduction%20to%20the%20Tidyverse)
+[**Introduction to Importing Data in R**](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20Data/R/Introduction%20to%20Importing%20Data%20in%20R)
 
-[**Introduction to Data Visualization with ggplot2**](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/R/Introduction%20to%20Data%20Visualization%20with%20ggplot2)
+[**Data Manipulation with dplyr**](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Manipulation/R/Data%20Manipulation%20with%20dplyr)
+
+[**Intermediate Data Visualization with ggplot2**](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/R/Intermediate%20Data%20Visualization%20with%20ggplot2)
 
 **Topics**
+
+[**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Visualization/R)
 
 [**Case Studies**](https://github.com/Torregu/DataCamp/tree/main/Projects/Case%20Studies/R)
