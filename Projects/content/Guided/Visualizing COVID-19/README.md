@@ -1,7 +1,7 @@
 FREE PROJECT
-# Wrangling and Visualizing Musical Data
+# Visualizing COVID-19
 
-Wrangle and visualize musical data to find common chords and compare the styles of different artists.
+Visualize the rise of COVID-19 cases globally with ggplot2.
 
 9 tasks
 1500 XP
