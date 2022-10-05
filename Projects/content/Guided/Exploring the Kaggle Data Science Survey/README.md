@@ -38,4 +38,8 @@ R
 
 **Topics**
 
+[**Data Manipulation**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Manipulation/R)
+
+[**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Manipulation/R)
+
 [**Case Studies**](https://github.com/Torregu/DataCamp/tree/main/Projects/Case%20Studies/R)
