@@ -41,4 +41,4 @@ R
 
 [**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Manipulation/R)
 
-[**Importing & Cleaning Data**](https://github.com/Torregu/DataCamp/tree/main/Projects/Importing%20&%20Cleaning Data/R)
+[**Importing & Cleaning Data**](https://github.com/Torregu/DataCamp/tree/main/Projects/Importing%20&%20Cleaning%20Data/R)
