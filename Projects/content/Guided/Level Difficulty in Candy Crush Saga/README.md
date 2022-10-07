@@ -1,9 +1,9 @@
 PREMIUM PROJECT
-# Exploring the Kaggle Data Science Survey
+# Level Difficulty in Candy Crush Saga
 
-Discover the top tools Kaggle participants use for data science and machine learning.
+Analyze data from the hit mobile game, Candy Crush Saga.
 
-9 tasks
+10 tasks
 1500 XP
 
 <img src="style-project-description.svg" width="180" height="30" alt="css-in-readme">
@@ -16,15 +16,16 @@ This project uses a subset of the [**2017 Kaggle Machine Learning and Data Scien
 
 <img src="style-project-tasks.svg" width="130" height="30" alt="css-in-readme">
 
-1. Welcome to the world of data science
-2. Using multiple tools
-3. Counting users of each tool
-4. Plotting the most popular tools
-5. The R vs Python debate
-6. Plotting R vs Python users
-7. Language recommendations
-8. The most recommended language by the language used
-9. The moral of the story
+1. Candy Crush Saga
+2. The data set
+3. Checking the data set
+4. Computing level difficulty
+5. Plotting difficulty profile
+6. Spotting hard levels
+7. Computing uncertainty
+8. Showing uncertainty
+9. A final metric
+10. Should our level designer worry?
 
 **Technology**
 
