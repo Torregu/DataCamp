@@ -41,11 +41,17 @@ Use SQL to build a project that has a specific solution, with guided tasks and r
   </tr>
 </table>
 
-**Prerequisites**
+**Python Prerequisites**
 
-[**Introduction to the Tidyverse**](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/R/Introduction%20to%20the%20Tidyverse)
+[**Introduction to the Tidyverse**](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python)
 
-[**Introduction to Data Visualization with ggplot2**](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/R/Introduction%20to%20Data%20Visualization%20with%20ggplot2)
+**R Prerequisites**
+
+[**Introduction to R**](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/R/Introduction%20to%20R)
+
+**SQL Prerequisites**
+
+[**Intermediate SQL**](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/SQL/Intermediate%20SQL)
 
 **Topics**
 
