@@ -30,10 +30,16 @@ R
 
 **Topics**
 
+[**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Visualization)
+
+[**Case Studies**](https://github.com/Torregu/DataCamp/tree/main/Projects/Case%20Studies)
+
+[**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Visualization)
+
+[**Case Studies**](https://github.com/Torregu/DataCamp/tree/main/Projects/Case%20Studies)
+
 [**Data Manipulation**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Manipulation)
 
 [**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Visualization)
 
 [**Importing & Cleaning Data**](https://github.com/Torregu/DataCamp/tree/main/Projects/Importing%20&%20Cleaning%20Data)
-
-[**Case Studies**](https://github.com/Torregu/DataCamp/tree/main/Projects/Case%20Studies)
