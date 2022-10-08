@@ -19,7 +19,7 @@ Use Python to build a project that has a specific solution, with guided tasks an
 R <br>
 Use R to build a project that has a specific solution, with guided tasks and real-time automated code checks
 
-SQL <br>
+[**SQL**](https://github.com/Torregu/DataCamp/tree/main/Projects/content/Guided/Introduction%20to%20DataCamp%20Projects/SQL) <br>
 Use SQL to build a project that has a specific solution, with guided tasks and real-time automated code checks
 
 <img src="style-project-tasks.svg" width="130" height="30" alt="css-in-readme">
