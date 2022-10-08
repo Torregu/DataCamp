@@ -1,31 +1,22 @@
-PREMIUM PROJECT
-# Wrangling and Visualizing Musical Data
+PROJECT
+# Introduction to DataCamp Projects
 
-Wrangle and visualize musical data to find common chords and compare the styles of different artists.
-
-10 tasks
-1500 XP
+If you've never done a DataCamp project, this is the place to start!
 
 <img src="style-project-description.svg" width="180" height="30" alt="css-in-readme">
 
-Apply data-wrangling and visualization tools from the tidyverse to musical data. Find the most common chords and chord progressions in a sample of pop/rock music from the 1950s-1990s, and compare the styles of different artists.
+This is an introduction to DataCamp projects. DataCamp projects allow you to apply the skills you have learned in DataCamp courses. In each project, you will carry out an end-to-end analysis on real-world tasks using real-world tools and workflows.
 
-This project assumes familiarity with standard TidyVerse tools for R, in particular the `tibble` data structure and the `dplyr` and `ggplot2` packages. No specific musical knowledge is required, though it may give you ideas for further exploration of the dataset after completing the project.
-
-This project uses a parsed and cleaned version of the [**McGill Billboard Dataset**](http://ddmal.music.mcgill.ca/research/billboard), version 2.0 (CC0 license).
+In doing so, you will learn how to work with Jupyter notebooks: an open-source web application that is great for interactive data analysis.
 
 <img src="style-project-tasks.svg" width="130" height="30" alt="css-in-readme">
 
-1. Introduction
-2. The most common chords
-3. Visualizing the most common chords
-4. Chord "bigrams"
-5. Visualizing the most common chord progressions
-6. Finding the most common artists
-7. Tagging the corpus
-8. Comparing chords in piano-driven and guitar-driven songs
-9. Comparing chord bigrams in piano-driven and guitar-driven songs
-10. Conclusion
+1. This is a Jupyter notebook!
+2. Put any code in code cells
+3. Jupyter notebooks ♡ data
+4. Jupyter notebooks ♡ plots
+5. Jupyter notebooks ♡ a lot more
+6. Goodbye for now!
 
 **Technology**
 
@@ -39,4 +30,10 @@ R
 
 **Topics**
 
+[**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Visualization/R)
+
 [**Case Studies**](https://github.com/Torregu/DataCamp/tree/main/Projects/Case%20Studies/R)
+
+[**Data Manipulation**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Manipulation/R)
+
+[**Importing & Cleaning Data**](https://github.com/Torregu/DataCamp/tree/main/Projects/Importing%20&%20Cleaning%20Data/R)
