@@ -13,7 +13,7 @@ In doing so, you will learn how to work with Jupyter notebooks: an open-source w
 
 In this gentle introduction to DataCamp projects, we will walk you through the project interface!
 
-Python <br>
+[**Python**](https://github.com/Torregu/DataCamp/tree/main/Projects/content/Guided/Introduction%20to%20DataCamp%20Projects/Python) <br>
 Use Python to build a project that has a specific solution, with guided tasks and real-time automated code checks
 
 R <br>
