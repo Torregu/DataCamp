@@ -11,8 +11,6 @@ In doing so, you will learn how to work with Jupyter notebooks: an open-source w
 
 <img src="style-guided-project.svg" width="180" height="30" alt="css-in-readme">
 
-<img src="style-project-description.svg" width="180" height="30" alt="css-in-readme">
-
 In this gentle introduction to DataCamp projects, we will walk you through the project interface!
 
 <img src="style-project-tasks.svg" width="130" height="30" alt="css-in-readme">
