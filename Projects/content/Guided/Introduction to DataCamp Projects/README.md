@@ -33,11 +33,13 @@ Use SQL to build a project that has a specific solution, with guided tasks and r
 
 **Technology**
 
-**Python**
-
-**R**
-
-**SQL**
+<table>
+  <tr>
+    <td><b>Python</b></td>
+    <td><b>R</b></td>
+    <td><b>SQL</b></td>
+  </tr>
+</table>
 
 **Prerequisites**
 
