@@ -13,13 +13,13 @@ In doing so, you will learn how to work with Jupyter notebooks: an open-source w
 
 In this gentle introduction to DataCamp projects, we will walk you through the project interface!
 
-Python
+Python <br>
 Use Python to build a project that has a specific solution, with guided tasks and real-time automated code checks
 
-R
+R <br>
 Use R to build a project that has a specific solution, with guided tasks and real-time automated code checks
 
-SQL
+SQL <br>
 Use SQL to build a project that has a specific solution, with guided tasks and real-time automated code checks
 
 <img src="style-project-tasks.svg" width="130" height="30" alt="css-in-readme">
