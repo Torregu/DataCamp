@@ -43,7 +43,7 @@ Use SQL to build a project that has a specific solution, with guided tasks and r
 
 **Python Prerequisites**
 
-[**Introduction to the Tidyverse**](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python)
+[**Introduction to Python**](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python)
 
 **R Prerequisites**
 
