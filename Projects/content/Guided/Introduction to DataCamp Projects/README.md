@@ -33,7 +33,11 @@ Use SQL to build a project that has a specific solution, with guided tasks and r
 
 **Technology**
 
-R
+**Python**
+
+**R**
+
+**SQL**
 
 **Prerequisites**
 
