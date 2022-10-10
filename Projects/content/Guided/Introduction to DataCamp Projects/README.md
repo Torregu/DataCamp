@@ -16,7 +16,7 @@ In this gentle introduction to DataCamp projects, we will walk you through the p
 [**Python**](https://github.com/Torregu/DataCamp/tree/main/Projects/content/Guided/Introduction%20to%20DataCamp%20Projects/Python) <br>
 Use Python to build a project that has a specific solution, with guided tasks and real-time automated code checks.
 
-R <br>
+[**R**](https://github.com/Torregu/DataCamp/tree/main/Projects/content/Guided/Introduction%20to%20DataCamp%20Projects/R) <br>
 Use R to build a project that has a specific solution, with guided tasks and real-time automated code checks.
 
 [**SQL**](https://github.com/Torregu/DataCamp/tree/main/Projects/content/Guided/Introduction%20to%20DataCamp%20Projects/SQL) <br>
@@ -55,16 +55,16 @@ Use SQL to build a project that has a specific solution, with guided tasks and r
 
 **Topics**
 
-[**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Visualization)
+[**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Visualization/Python)
 
-[**Case Studies**](https://github.com/Torregu/DataCamp/tree/main/Projects/Case%20Studies)
+[**Case Studies**](https://github.com/Torregu/DataCamp/tree/main/Projects/Case%20Studies/Python)
 
-[**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Visualization)
+[**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Visualization/R)
 
-[**Case Studies**](https://github.com/Torregu/DataCamp/tree/main/Projects/Case%20Studies)
+[**Case Studies**](https://github.com/Torregu/DataCamp/tree/main/Projects/Case%20Studies/R)
 
-[**Data Manipulation**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Manipulation)
+[**Data Manipulation**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Manipulation/SQL)
 
-[**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Visualization)
+[**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Visualization/SQL)
 
-[**Importing & Cleaning Data**](https://github.com/Torregu/DataCamp/tree/main/Projects/Importing%20&%20Cleaning%20Data)
+[**Importing & Cleaning Data**](https://github.com/Torregu/DataCamp/tree/main/Projects/Importing%20&%20Cleaning%20Data/SQL)
