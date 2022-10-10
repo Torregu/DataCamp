@@ -1,15 +1,38 @@
-<svg fill="none" viewBox="0 0 450 70" width="450" height="70" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 450 233" width="450" height="233" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-        <style type="text/css">
-        .tg  {border-collapse:collapse;border-spacing:0;}
-        .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-          overflow:hidden;padding:10px 5px;word-break:normal;}
-        .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-          font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-        .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-        </style>
-            <span style="font-family:Segoe UI; font-size:50px;"><b>Project Description</b></span>
+            <style type="text/css">
+            .tg  {border-collapse:collapse;border-spacing:0;}
+            .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+              overflow:hidden;padding:10px 5px;word-break:normal;}
+            .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+              font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+            .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+            </style>
+            <table class="tg">
+            <thead>
+              <tr>
+                <th class="tg-0pky">1. This is a Jupyter notebook!</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="tg-0pky">2. Put any code in code cells</td>
+              </tr>
+              <tr>
+                <td class="tg-0pky">3. Jupyter notebooks ♡ data</td>
+              </tr>
+              <tr>
+                <td class="tg-0pky">4. Jupyter notebooks ♡ plots</td>
+              </tr>
+              <tr>
+                <td class="tg-0pky">5. Jupyter notebooks ♡ a lot more</td>
+              </tr>
+              <tr>
+                <td class="tg-0pky">6. Goodbye for now!</td>
+              </tr>
+            </tbody>
+            </table>
         </div>
     </foreignObject>
 </svg>
