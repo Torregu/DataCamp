@@ -6,10 +6,6 @@ Build the confidence to code on your own. Projects let you apply your skills usi
 
 **85 projects**
 
-**Guided Project**
-
-Follow step-by-step tasks to solve real-world problems. You'll receive helpful feedback as you apply your new skills to reach the solution.
-
-**Unguided Project**
-
-Solve open-ended data science problems without step-by-step tasks. If you get stuck, follow the live code-along video to see how our expert instructor finds one of the many possible solutions.
+| **Guided Project** | **Unguided Project** |
+|--------------------|----------------------|
+| Follow step-by-step tasks to solve real-world problems. You'll receive helpful feedback as you apply your new skills to reach the solution. | Solve open-ended data science problems without step-by-step tasks. If you get stuck, follow the live code-along video to see how our expert instructor finds one of the many possible solutions. |
