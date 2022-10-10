@@ -31,8 +31,6 @@ Use SQL to build a project that has a specific solution, with guided tasks and r
 5. Jupyter notebooks ♡ a lot more
 6. Goodbye for now!
 
-<img src="style-project-tasks-list.svg" width="200" height="200" alt="css-in-readme">
-
 **Technology**
 
 <table>
