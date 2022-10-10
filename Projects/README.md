@@ -6,6 +6,6 @@ Build the confidence to code on your own. Projects let you apply your skills usi
 
 **85 projects**
 
-| [**Guided Project**](https://github.com/Torregu/DataCamp/tree/main/Projects/content/Guided) | [**Unguided Project**](https://github.com/Torregu/DataCamp/tree/main/Projects/content/Unguided%20Guided) |
+| [**Guided Project**](https://github.com/Torregu/DataCamp/tree/main/Projects/content/Guided) | [**Unguided Project**](https://github.com/Torregu/DataCamp/tree/main/Projects/content/Unguided%20Project) |
 |--------------------|----------------------|
 | Follow step-by-step tasks to solve real-world problems. You'll receive helpful feedback as you apply your new skills to reach the solution. | Solve open-ended data science problems without step-by-step tasks. If you get stuck, follow the live code-along video to see how our expert instructor finds one of the many possible solutions. |
