@@ -1,7 +1,7 @@
 PREMIUM PROJECT
 # Scout your Athletics Fantasy Team
 
-Visualize the rise of COVID-19 cases globally with ggplot2.
+Analyze athletics data to find new ways to scout and assess jumpers and throwers.
 
 10 tasks
 1500 XP
