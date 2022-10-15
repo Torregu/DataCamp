@@ -1,28 +1,29 @@
-FREE PROJECT
-# Visualizing COVID-19
+PREMIUM PROJECT
+# Visualizing Inequalities in Life Expectancy
 
-Visualize the rise of COVID-19 cases globally with ggplot2.
+Compare life expectancy across countries and genders with ggplot2.
 
-9 tasks
+10 tasks
 1500 XP
 
 <img src="style-project-description.svg" width="180" height="30" alt="css-in-readme">
 
-Within months, COVID-19 went from an epidemic to a pandemic. From the first identified case in December 2019, how did the virus spread so fast and widely? In this free R project, we will visualize data from the early months of the coronavirus outbreak to see how this virus grew to be a global pandemic.
+Do women live longer than men? How long? Does it happen everywhere? Is life expectancy increasing? Everywhere? Which is the country with the lowest life expectancy? Which is the one with the highest? In this project, you will answer all these questions by manipulating and visualizing United Nations life expectancy data using `ggplot2`.
 
-This project assumes you can manipulate data frames using `dplyr` and make plots using `ggplot2`.
+The dataset can be found [**here**](http://data.un.org/Data.aspx?d=GenderStat&f=inID:37&c=1,2,3,4,5,6&s=crEngName:asc,sgvEngName:asc,timeEngName:desc&v=1) and contains the average life expectancies of men and women by country (in years). It covers four periods: 1985-1990, 1990-1995, 1995-2000, and 2000-2005.
 
 <img src="style-project-tasks.svg" width="130" height="30" alt="css-in-readme">
 
-1. From epidemic to pandemic
-2. Confirmed cases throughout the world
-3. China compared to the rest of the world
-4. Let's annotate!
-5. Adding a trend line to China
-6. And the rest of the world?
-7. Adding a logarithmic scale
-8. Which countries outside of China have been hit hardest?
-9. Plotting hardest hit countries as of Mid-March 2020
+1. United Nations life expectancy data
+2. Life expectancy of men vs. women by country
+3. Visualize I
+4. Reference lines I
+5. Plot titles and axis labels
+6. Highlighting remarkable countries I
+7. How has life expectancy by gender evolved?
+8. Visualize II
+9. Reference lines II
+10. Highlighting remarkable countries II
 
 **Technology**
 
@@ -30,14 +31,15 @@ R
 
 **Prerequisites**
 
-[**Introduction to Importing Data in R**](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20Data/R/Introduction%20to%20Importing%20Data%20in%20R)
+[**Introduction to the Tidyverse**](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/R/Itrodcution%20to%20the%20Tidyverse)
 
-[**Data Manipulation with dplyr**](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Manipulation/R/Data%20Manipulation%20with%20dplyr)
-
-[**Intermediate Data Visualization with ggplot2**](https://github.com/Torregu/DataCamp/tree/main/Courses/Data%20Visualization/R/Intermediate%20Data%20Visualization%20with%20ggplot2)
+[**Cleaning Data in R**](https://github.com/Torregu/DataCamp/tree/main/Courses/Importing%20&%20Cleaning%20Data/R/Cleaning%20Data%20in%20R)
 
 **Topics**
 
+[**Data Manipulation**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Manipulation/R)
+
 [**Data Visualization**](https://github.com/Torregu/DataCamp/tree/main/Projects/Data%20Visualization/R)
 
-[**Case Studies**](https://github.com/Torregu/DataCamp/tree/main/Projects/Case%20Studies/R)
+[**Importing & Cleaning Data**](https://github.com/Torregu/DataCamp/tree/main/Projects/Importing%20&%20Cleaning%20Data/R)
+
