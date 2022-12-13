@@ -1,0 +1,2 @@
++ Use the [**`index()`**](https://docs.python.org/3/library/stdtypes.html#str.index) method to get the index of the element in `areas` that is equal to `20.0`. Print out this index.
++ Call [**`count()`**](https://docs.python.org/3/library/stdtypes.html#str.count) on `areas` to find out how many times `9.50` appears in the list. Again, simply print out this number.

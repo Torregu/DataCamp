@@ -1,0 +1,3 @@
++ Use the [**`upper()`**](https://docs.python.org/3/library/stdtypes.html#str.upper) method on `place` and store the result in `place_up`. Use the syntax for calling methods that you learned in the previous video.
++ Print out `place` and `place_up`. Did both change?
++ Print out the number of o's on the variable `place` by calling [**`count()`**](https://docs.python.org/3/library/stdtypes.html#str.count) on `place` and passing the letter `'o'` as an input to the method. We're talking about the variable `place`, not the word `"place"`!
