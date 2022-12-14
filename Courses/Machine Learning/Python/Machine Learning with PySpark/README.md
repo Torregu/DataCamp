@@ -82,23 +82,23 @@ Finally you'll learn how to make your models more efficient. You'll find out how
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
   
-  + [Pipeline](4%20Ensembles%20&%20Pipelines/1.%20Pipeline) ------------------------------------------------------------------------------------------------------------------ 50 xp
-  + [Flight duration model: Pipeline stages](4%20Ensembles%20&%20Pipelines/2.%20Flight%20duration%20model%20I%20Pipeline%20stages) ----------------------------------------------------------------------------------- 100 xp
-  + [Flight duration model: Pipeline model](4%20Ensembles%20&%20Pipelines/3.%20Flight%20duration%20model%20I%20Pipeline%20model) ------------------------------------------------------------------------------------ 100 xp
+  + [Pipeline](4%20Ensembles%20&%20Pipelines/1.%20Pipeline) -------------------------------------------------------------------------------------------------------------------- 50 xp
+  + [Flight duration model: Pipeline stages](4%20Ensembles%20&%20Pipelines/2.%20Flight%20duration%20model%20I%20Pipeline%20stages) ---------------------------------------------------------------------------------------- 100 xp
+  + [Flight duration model: Pipeline model](4%20Ensembles%20&%20Pipelines/3.%20Flight%20duration%20model%20I%20Pipeline%20model) ----------------------------------------------------------------------------------------- 100 xp
   + [SMS spam pipeline](4%20Ensembles%20&%20Pipelines/4.%20SMS%20spam%20pipeline) -------------------------------------------------------------------------------------------------------- 100 xp
-  + [Cross-Validation](4%20Ensembles%20&%20Pipelines/5.%20Cross-Validation) ---------------------------------------------------------------------------------------------------------- 50 xp
-  + [Cross validating simple flight duration model](4%20Ensembles%20&%20Pipelines/6.%20Cross%20validating%20simple%20flight%20duration%20model) ---------------------------------------------------------------------------- 100 xp
-  + [Cross validating flight duration model pipeline](4%20Ensembles%20&%20Pipelines/7.%20Cross%20validating%20flight%20duration%20model%20pipeline) -------------------------------------------------------------------------- 100 xp
-  + [Grid Search](4%20Ensembles%20&%20Pipelines/8.%20Grid%20Search) --------------------------------------------------------------------------------------------------------------- 50 xp
-  + [Optimizing flights linear regression](4%20Ensembles%20&%20Pipelines/9.%20Optimizing%20flights%20linear%20regression) ------------------------------------------------------------------------------------- 100 xp
-  + [Dissecting the best flight duration model](4%20Ensembles%20&%20Pipelines/10.%20Dissecting%20the%20best%20flight%20duration%20model) -------------------------------------------------------------------------------- 100 xp
-  + [SMS spam optimised](4%20Ensembles%20&%20Pipelines/11.%20SMS%20spam%20optimised) ------------------------------------------------------------------------------------------------------- 100 xp
-  + [How many models for grid search?](4%20Ensembles%20&%20Pipelines/12.%20How%20many%20models%20for%20grid%20search) ------------------------------------------------------------------------------------------ 50 xp
-  + [Ensemble](4%20Ensembles%20&%20Pipelines/13.%20Ensemble) ------------------------------------------------------------------------------------------------------------------ 50 xp
-  + [Delayed flights with Gradient-Boosted Trees](4%20Ensembles%20&%20Pipelines/14.%20Delayed%20flights%20with%20Gradient-Boosted%20Trees) ------------------------------------------------------------------------------ 100 xp
-  + [Delayed flights with a Random Forest](4%20Ensembles%20&%20Pipelines/15.%20Delayed%20flights%20with%20a%20Random%20Forest) ------------------------------------------------------------------------------------- 100 xp
+  + [Cross-Validation](4%20Ensembles%20&%20Pipelines/5.%20Cross-Validation) ------------------------------------------------------------------------------------------------------------ 50 xp
+  + [Cross validating simple flight duration model](4%20Ensembles%20&%20Pipelines/6.%20Cross%20validating%20simple%20flight%20duration%20model) ---------------------------------------------------------------------------------- 100 xp
+  + [Cross validating flight duration model pipeline](4%20Ensembles%20&%20Pipelines/7.%20Cross%20validating%20flight%20duration%20model%20pipeline) ---------------------------------------------------------------------------------- 100 xp
+  + [Grid Search](4%20Ensembles%20&%20Pipelines/8.%20Grid%20Search) -------------------------------------------------------------------------------------------------------------- 50 xp
+  + [Optimizing flights linear regression](4%20Ensembles%20&%20Pipelines/9.%20Optimizing%20flights%20linear%20regression) ------------------------------------------------------------------------------------------ 100 xp
+  + [Dissecting the best flight duration model](4%20Ensembles%20&%20Pipelines/10.%20Dissecting%20the%20best%20flight%20duration%20model) ------------------------------------------------------------------------------------ 100 xp
+  + [SMS spam optimised](4%20Ensembles%20&%20Pipelines/11.%20SMS%20spam%20optimised) ----------------------------------------------------------------------------------------------------- 100 xp
+  + [How many models for grid search?](4%20Ensembles%20&%20Pipelines/12.%20How%20many%20models%20for%20grid%20search) ----------------------------------------------------------------------------------------- 50 xp
+  + [Ensemble](4%20Ensembles%20&%20Pipelines/13.%20Ensemble) ----------------------------------------------------------------------------------------------------------------- 50 xp
+  + [Delayed flights with Gradient-Boosted Trees](4%20Ensembles%20&%20Pipelines/14.%20Delayed%20flights%20with%20Gradient-Boosted%20Trees) --------------------------------------------------------------------------------- 100 xp
+  + [Delayed flights with a Random Forest](4%20Ensembles%20&%20Pipelines/15.%20Delayed%20flights%20with%20a%20Random%20Forest) --------------------------------------------------------------------------------------- 100 xp
   + [Evaluating Random Forest](4%20Ensembles%20&%20Pipelines/16.%20Evaluating%20Random%20Forest) ------------------------------------------------------------------------------------------------- 100 xp
-  + [Closing thoughts](4%20Ensembles%20&%20Pipelines/17.%20Closing%20thoughts) ---------------------------------------------------------------------------------------------------------- 50 xp
+  + [Closing thoughts](4%20Ensembles%20&%20Pipelines/17.%20Closing%20thoughts) ----------------------------------------------------------------------------------------------------------- 50 xp
 </details>
 
 <br><br>
