@@ -39,15 +39,22 @@ Now that you are familiar with getting data into Spark, you'll move onto buildin
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
 
-  + [Machine Learning & Spark](1%20Introduction/1.%20Machine%20Learning%20&%20Spark) -------------------------------------------------------------------------------------------------- 50 xp
-  + [Characteristics of Spark](1%20Introduction/2.%20Characteristics%20of%20Spark) -------------------------------------------------------------------------------------------------- 50 xp
-  + [Components in a Spark Cluster](1%20Introduction/3.%20Components%20in%20a%20Spark%20Cluster) --------------------------------------------------------------------------------------------- 50 xp
-  + [Connecting to Spark](1%20Introduction/4.%20Connecting%20to%20Spark) ------------------------------------------------------------------------------------------------------- 50 xp
-  + [Location of Spark master](1%20Introduction/5.%20Location%20of%20Spark%20master) -------------------------------------------------------------------------------------------------- 50 xp
-  + [Creating a SparkSession](1%20Introduction/6.%20Creating%20a%20SparkSession) --------------------------------------------------------------------------------------------------- 100 xp
-  + [Loading Data](1%20Introduction/7.%20Loading%20Data) -------------------------------------------------------------------------------------------------------------- 50 xp
-  + [Loading flights data](1%20Introduction/8.%20Loading%20flights%20data) ------------------------------------------------------------------------------------------------------ 100 xp
-  + [Loading SMS spam data](1%20Introduction/9.%20Loading%20SMS%20spam%20data) ----------------------------------------------------------------------------------------------------- 100 xp
+  + [Data Preparation](2%20Classification/1.%20Data%20Preparation) ----------------------------------------------------------------------------------------------------------- 50 xp
+  + [Removing columns and rows](2%20Classification/2.%20Removing%20columns%20and%20rows) ------------------------------------------------------------------------------------------------- 100 xp
+  + [Column manipulation](2%20Classification/3.%20Column%20manipulation) ------------------------------------------------------------------------------------------------------- 100 xp
+  + [Categorical columns](2%20Classification/4.%20Categorical%20columns) ------------------------------------------------------------------------------------------------------- 100 xp
+  + [Assembling columns](2%20Classification/5.%20Assembling%20columns) -------------------------------------------------------------------------------------------------------- 100 xp
+  + [Decision Tree](2%20Classification/6.%20Decision%20Tree) -------------------------------------------------------------------------------------------------------------- 50 xp
+  + [Train/test split](2%20Classification/7.%20Train/test%20split) ---------------------------------------------------------------------------------------------------------- 100 xp
+  + [Build a Decision Tree](2%20Classification/8.%20Build%20a%20Decision%20Tree) ----------------------------------------------------------------------------------------------------- 100 xp
+  + [Evaluate the Decision Tree](2%20Classification/9.%20Evaluate%20the%20Decision%20Tree) ------------------------------------------------------------------------------------------------ 100 xp
+  + [Logistic Regression](2%20Classification/10.%20Logistic%20Regression) -------------------------------------------------------------------------------------------------------- 50 xp
+  + [Build a Logistic Regression model](2%20Classification/11.%20Build%20a%20Logistic%20Regression%20model) ----------------------------------------------------------------------------------------- 100 xp
+  + [Evaluate the Logistic Regression model](2%20Classification/12.%20Evaluate%20the%20Logistic%20Regression%20model) ------------------------------------------------------------------------------------ 100 xp
+  + [Turning Text into Tables](2%20Classification/13.%20Turning%20Text%20into%20Tables) --------------------------------------------------------------------------------------------------- 50 xp
+  + [Punctuation, numbers and tokens](2%20Classification/14.%20Punctuation,%20numbers%20and%20tokens) ------------------------------------------------------------------------------------------- 100 xp
+  + [Stop words and hashing](2%20Classification/15.%20Stop%20words%20and%20hashing) ---------------------------------------------------------------------------------------------------- 100 xp
+  + [Training a spam classifier](2%20Classification/16.%20Training%20a%20spam%20classifier) ------------------------------------------------------------------------------------------------ 100 xp
 </details>
 
 <br>
