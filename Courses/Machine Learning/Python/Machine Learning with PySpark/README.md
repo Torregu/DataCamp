@@ -65,7 +65,7 @@ Now that you are familiar with getting data into Spark, you'll move onto buildin
 
 <br>
 
-[**3 Regression**](3%20Regression)
+[**3 Regression**](https://github.com/Torregu/DataCamp/tree/main/Courses/Machine%20Learning/Python/Machine%20Learning%20with%20PySpark/3%20Regression)
 
 Next you'll learn to create Linear Regression models. You'll also find out how to augment your data by engineering new predictors as well as a robust approach to selecting only the most relevant predictors.
 
