@@ -82,7 +82,7 @@ Finally you'll learn how to make your models more efficient. You'll find out how
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
   
-+ [Pipeline](4%20Ensembles%20&%20Pipelines/1.%20Pipeline) ------------------------------------------------------------------------------------------------------------------ 50 xp
+  + [Pipeline](4%20Ensembles%20&%20Pipelines/1.%20Pipeline) ------------------------------------------------------------------------------------------------------------------ 50 xp
   + [Flight duration model: Pipeline stages](4%20Ensembles%20&%20Pipelines/2.%20Flight%20duration%20model%20I%20Pipeline%20stages) ----------------------------------------------------------------------------------- 100 xp
   + [Flight duration model: Pipeline model](4%20Ensembles%20&%20Pipelines/3.%20Flight%20duration%20model%20I%20Pipeline%20model) ------------------------------------------------------------------------------------ 100 xp
   + [SMS spam pipeline](4%20Ensembles%20&%20Pipelines/4.%20SMS%20spam%20pipeline) -------------------------------------------------------------------------------------------------------- 100 xp
