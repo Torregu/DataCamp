@@ -12,7 +12,7 @@ Spark is a powerful, general purpose tool for working with Big Data. Spark trans
 
 <br><br>
 
-[**1 Introduction**](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Introduction)
+[**1 Introduction**](https://github.com/Torregu/DataCamp/tree/main/Courses/Machine%20Learning/Python/Introduction%20to%20Python/1%20Introduction)
 
 Spark is a framework for working with Big Data. In this chapter you'll cover some background about Spark and Machine Learning. You'll then find out how to connect to Spark using Python and load CSV data.
 
