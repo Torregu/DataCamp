@@ -1,2 +1,0 @@
-+ Create `downstairs` again, as the first `6` elements of `areas`. This time, simplify the slicing by omitting the `begin` index.
-+ Create `upstairs` again, as the last `4` elements of `areas`. This time, simplify the slicing by omitting the `end` index.

@@ -1,0 +1,26 @@
+Machine Learning & Spark
+50 xp
+
+Characteristics of Spark
+50 xp
+
+Components in a Spark Cluster
+50 xp
+
+Connecting to Spark
+50 xp
+
+Location of Spark master
+50 xp
+
+Creating a SparkSession
+100 xp
+
+Loading Data
+50 xp
+
+Loading flights data
+100 xp
+
+Loading SMS spam data
+100 xp

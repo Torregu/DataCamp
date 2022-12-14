@@ -1,0 +1,41 @@
+One-Hot Encoding
+50 xp
+
+Encoding flight origin
+100 xp
+
+Encoding shirt sizes
+50 xp
+
+Regression
+50 xp
+
+Flight duration model: Just distance
+100 xp
+
+Interpreting the coefficients
+100 xp
+
+Flight duration model: Adding origin airport
+100 xp
+
+Interpreting coefficients
+100 xp
+
+Bucketing & Engineering
+50 xp
+
+Bucketing departure time
+100 xp
+
+Flight duration model: Adding departure time
+100 xp
+
+Regularization
+50 xp
+
+Flight duration model: More features!
+100 xp
+
+Flight duration model: Regularization!
+100 xp

@@ -1,0 +1,50 @@
+Pipeline
+50 xp
+
+Flight duration model: Pipeline stages
+100 xp
+
+Flight duration model: Pipeline model
+100 xp
+
+SMS spam pipeline
+100 xp
+
+Cross-Validation
+50 xp
+
+Cross validating simple flight duration model
+100 xp
+
+Cross validating flight duration model pipeline
+100 xp
+
+Grid Search
+50 xp
+
+Optimizing flights linear regression
+100 xp
+
+Dissecting the best flight duration model
+100 xp
+
+SMS spam optimised
+100 xp
+
+How many models for grid search?
+50 xp
+
+Ensemble
+50 xp
+
+Delayed flights with Gradient-Boosted Trees
+100 xp
+
+Delayed flights with a Random Forest
+100 xp
+
+Evaluating Random Forest
+100 xp
+
+Closing thoughts
+50 xp

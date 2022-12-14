@@ -1,0 +1,47 @@
+Data Preparation
+50 xp
+
+Removing columns and rows
+100 xp
+
+Column manipulation
+100 xp
+
+Categorical columns
+100 xp
+
+Assembling columns
+100 xp
+
+Decision Tree
+50 xp
+
+Train/test split
+100 xp
+
+Build a Decision Tree
+100 xp
+
+Evaluate the Decision Tree
+100 xp
+
+Logistic Regression
+50 xp
+
+Build a Logistic Regression model
+100 xp
+
+Evaluate the Logistic Regression model
+100 xp
+
+Turning Text into Tables
+50 xp
+
+Punctuation, numbers and tokens
+100 xp
+
+Stop words and hashing
+100 xp
+
+Training a spam classifier
+100 xp
