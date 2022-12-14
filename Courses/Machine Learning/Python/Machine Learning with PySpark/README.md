@@ -127,3 +127,8 @@ This course is part of these tracks:
 
 [**SMS**](https://github.com/Torregu/DataCamp/tree/main/Courses/Machine%20Learning/Python/Machine%20Learning%20with%20PySpark/datasets/sms.csv?raw=true)
 
+**PREREQUISITES**
+
+[**Introduction to PySpark**](https://github.com/Torregu/DataCamp/blob/main/Courses/Programming/Python/Introduction%20to%20PySpark)
+
+[**Supervised Learning with scikit-learn**](https://github.com/Torregu/DataCamp/blob/main/Courses/Machine%20Learning/Python/Supervised%20Learning%20with%20scikit-learn)
