@@ -18,21 +18,16 @@ Spark is a framework for working with Big Data. In this chapter you'll cover som
 
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
-<ul>
-<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/1.%20Hello%20Python">Hello Python</a> --------------------------------------------------------------------------------------------------------------- 50 xp</li>
-<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/2.%20The%20Python%20Interface">The Python Interface</a> ----------------------------------------------------------------------------------------------------- 100 xp</li>
-<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/3.%20When%20to%20use%20Python">When to use Python?</a> ------------------------------------------------------------------------------------------------------ 50 xp</li>
-<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/4.%20Any%20comments">Any comments?</a> ----------------------------------------------------------------------------------------------------------- 100 xp</li>
-<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/5.%20Python%20as%20a%20calculator">Python as a calculator</a> ---------------------------------------------------------------------------------------------------- 100 xp</li>
-<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/6.%20Variable%20and%20Types">Variables and Types</a> -------------------------------------------------------------------------------------------------------- 50 xp</li>
-<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/7.%20Variable%20Assignment">Variable Assignment</a> ------------------------------------------------------------------------------------------------------ 100 xp</li>
-<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/8.%20Calculations%20with%20variables">Calculations with variables</a> ----------------------------------------------------------------------------------------------- 100 xp</li>
-<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/9.%20Other%20variable%20types">Other variable types</a> ------------------------------------------------------------------------------------------------------ 100 xp</li>
-<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/10.%20Guess%20the%20type">Guess the type</a> ------------------------------------------------------------------------------------------------------------- 50 xp</li>
-<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/11.%20Operations%20with%20other%20types">Operations with other types</a> --------------------------------------------------------------------------------------------- 100 xp</li>
-<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/12.%20Type%20conversion">Type conversion</a> ---------------------------------------------------------------------------------------------------------- 100 xp</li>
-<li><a href="https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/1%20Python%20Basics/13.%20Can%20Python%20handle%20everything">Can Python handle everything?</a> ------------------------------------------------------------------------------------------- 50 xp</li>
-</ul>
+
+   + [Machine Learning & Spark](1%20Introduction/1.%20Machine%20Learning%20&%20Spark) -------------------------------------------------------------------------------------------------- 50 xp
+  + [Characteristics of Spark](1%20Introduction/2.%20Characteristics%20of%20Spark) -------------------------------------------------------------------------------------------------- 50 xp
+  + [Components in a Spark Cluster](1%20Introduction/3.%20Components%20in%20a%20Spark%20Cluster) --------------------------------------------------------------------------------------------- 50 xp
+  + [Connecting to Spark](1%20Introduction/4.%20Connecting%20to%20Spark) ------------------------------------------------------------------------------------------------------- 50 xp
+  + [Location of Spark master](1%20Introduction/5.%20Location%20of%20Spark%20master) -------------------------------------------------------------------------------------------------- 50 xp
+  + [Creating a SparkSession](1%20Introduction/6.%20Creating%20a%20SparkSession) --------------------------------------------------------------------------------------------------- 100 xp
+  + [Loading Data](1%20Introduction/7.%20Loading%20Data) -------------------------------------------------------------------------------------------------------------- 50 xp
+  + [Loading flights data](1%20Introduction/8.%20Loading%20flights%20data) ------------------------------------------------------------------------------------------------------ 100 xp
+  + [Loading SMS spam data](1%20Introduction/9.%20Loading%20SMS%20spam%20data) ----------------------------------------------------------------------------------------------------- 100 xp
 </details>
 
 <br>
