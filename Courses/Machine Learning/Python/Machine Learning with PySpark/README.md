@@ -66,18 +66,20 @@ Next you'll learn to create Linear Regression models. You'll also find out how t
 <details>
 <summary>VIEW CHAPTER DETAILS</summary>
   
-  + [Functions](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/1.%20Functions) ------------------------------------------------------------------------------------------------------------------- 50 xp
-  + [Familiar functions](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/2.%20Familiar%20functions) --------------------------------------------------------------------------------------------------------- 100 xp
-  + [Help!](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/3.%20Help!) ------------------------------------------------------------------------------------------------------------------------ 50 xp
-  + [Multiple arguments](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/4.%20Multiple%20arguments) ------------------------------------------------------------------------------------------------------- 100 xp
-  + [Methods](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/5.%20Methods) -------------------------------------------------------------------------------------------------------------------- 50 xp
-  + [String Methods](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/6.%20String%20Methods) ----------------------------------------------------------------------------------------------------------- 100 xp
-  + [List Methods](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/7.%20List%20Methods) -------------------------------------------------------------------------------------------------------------- 100 xp
-  + [List Methods (2)](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/8.%20List%20Methods%20(2)) ---------------------------------------------------------------------------------------------------------- 100 xp
-  + [Packages](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/9.%20Packages) ------------------------------------------------------------------------------------------------------------------- 50 xp
-  + [Import package](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/10.%20Import%20package) ----------------------------------------------------------------------------------------------------------- 100 xp
-  + [Selective import](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/11.%20Selective%20import) ---------------------------------------------------------------------------------------------------------- 100 xp
-  + [Different ways of importing](https://github.com/Torregu/DataCamp/tree/main/Courses/Programming/Python/Introduction%20to%20Python/3%20Functions%20and%20Packages/12.%20Different%20ways%20of%20importing) ----------------------------------------------------------------------------------------------- 50 xp
+  + [One-Hot Encoding](3%20Regression/1.%20One-Hot%20Encoding) --------------------------------------------------------------------------------------------------------- 50 xp
+  + [Encoding flight origin](3%20Regression/2.%20Encoding%20flight%20origin) ---------------------------------------------------------------------------------------------------- 100 xp
+  + [Encoding shirt sizes](3%20Regression/3.%20Encoding%20shirt%20sizes) ------------------------------------------------------------------------------------------------------- 50 xp
+  + [Regression](3%20Regression/4.%20Regression) ----------------------------------------------------------------------------------------------------------------- 50 xp
+  + [Flight duration model: Just distance](3%20Regression/5.%20Flight%20duration%20model%20I%20Just%20distance) ------------------------------------------------------------------------------------ 100 xp
+  + [Interpreting the coefficients](3%20Regression/6.%20Interpreting%20the%20coefficients) --------------------------------------------------------------------------------------------- 100 xp
+  + [Flight duration model: Adding origin airport](3%20Regression/7.%20Flight%20duration%20model%20I%20Adding%20origin%20airport) --------------------------------------------------------------------------- 100 xp
+  + [Interpreting coefficients](3%20Regression/8.%20Interpreting%20coefficients) ------------------------------------------------------------------------------------------------- 100 xp
+  + [Bucketing & Engineering](3%20Regression/9.%20Bucketing%20&%20Engineering) ------------------------------------------------------------------------------------------------- 50 xp
+  + [Bucketing departure time](3%20Regression/10.%20Bucketing%20departure%20time) ----------------------------------------------------------------------------------------------- 100 xp
+  + [Flight duration model: Adding departure time](3%20Regression/11.%20Flight%20duration%20model%20I%20Adding%20departure%20time) ------------------------------------------------------------------------- 100 xp
+  + [Regularization](3%20Regression/12.%20Regularization) ------------------------------------------------------------------------------------------------------------- 50 xp
+  + [Flight duration model: More features!](3%20Regression/13.%20Flight%20duration%20model%20I%20More%20features!) ---------------------------------------------------------------------------------- 100 xp
+  + [Flight duration model: Regularization!](3%20Regression/14.%20Flight%20duration%20model%20I%20Regularization!) ---------------------------------------------------------------------------------- 100 xp
 </details>
 
 <br>
