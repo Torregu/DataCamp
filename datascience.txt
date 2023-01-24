@@ -1,0 +1,30 @@
+encapsulación o visibilización de datos
+ocultación de datos
+comunicación de datos
+presentación de datos
+optimización de datos
+fragmentación de datos
+identificación de datos
+replicación de datos
+reducción de datos
+filtración de datos
+selección de datos
+inserción de datos
+reestructuración de datos
+estructuración de datos
+desnormalización de datos
+normalización de datos - se refiere al proceso de normalizar datos para reducir su redundancia
+recopilación de datos - se refiere al proceso de reunir datos de diversas fuentes
+consolidación de datos - se refiere al proceso de unir datos provenientes de diferentes fuentes
+visualización de datos
+conversión de datos - se refiere al proceso de convertir los datos en un formato electrónico
+modelización de datos
+comprensión de datos
+interpretación de datos
+proyección de datos
+
+
+extración de datos
+modificación de datos
+mutación de datos
+transformación de datos
