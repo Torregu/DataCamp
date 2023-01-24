@@ -4,9 +4,11 @@ comunicación de datos
 presentación de datos
 optimización de datos
 fragmentación de datos
+representación de datoss
 identificación de datos
 replicación de datos
 reducción de datos
+representación de datos
 filtración de datos
 selección de datos
 inserción de datos
@@ -14,17 +16,81 @@ reestructuración de datos
 estructuración de datos
 desnormalización de datos
 normalización de datos - se refiere al proceso de normalizar datos para reducir su redundancia
-recopilación de datos - se refiere al proceso de reunir datos de diversas fuentes
-consolidación de datos - se refiere al proceso de unir datos provenientes de diferentes fuentes
+recopilación o (recolección de datos - en duda) - se refiere al proceso de reunir datos de diversas fuentes
+consolidación o unificación de datos - se refiere al proceso de unir datos provenientes de diferentes fuentes
 visualización de datos
+orientación de datos - se refiere al proceso de orientar o incorporar la cultura del dato como una parte integral de un sistema (por ejemplo un modelo de negocio)
 conversión de datos - se refiere al proceso de convertir los datos en un formato electrónico
 modelización de datos
 comprensión de datos
-interpretación de datos
+interpretación de datos - se refiere al proceso de interpretar los datos (es decir las representaciones físicas de los conocimientos que obtenemos de los objetos del mundo real)
 proyección de datos
+descodificación de datos
+codificación de datos
+clasificación de datos
+agrupación de datos
+validación de datos
+reconstrucción de datos - se refiere al proceso de recuperar los datos de archivos no accesibles restaurándolos en formatos que puedan usar los interesados (será necesario reconstruir los archivos para volverlos accesibles y editables)
 
+-- En duda
 
 extración de datos
 modificación de datos
 mutación de datos
 transformación de datos
+sincronización de datos
+recuperación de datos
+restauración de datos
+actualización de datos
+automatización de datos
+sintentización de datos
+conceptualización de datos
+encriptación de datos
+protección de datos
+minimización de datos
+limitación de datos
+simplificación de datos
+reparación de datos
+construcción de datos
+simulación de datos
+contextualización de datos
+reconstrucción de datos
+deconstrucción de datos
+creación o elaboración de datos
+transmisión de datos
+organización de datos
+grabación de datos
+medición de datos
+predicción de datos
+incorporación de datos
+instrumentación de datos
+ordenación de datos - se refiere al proceso de organizar los datos en orden alfabético o numérico ascendente o descendente
+indexación de datos
+descripción de datos
+distribución de datos
+generalización de datos
+relativización de datos
+significación de datos
+inducción de datos
+deducción de datos
+tipificación de datos
+estandarización de datos
+anonimización o disociación de datos
+seudonimización de datos
+demostración de datos
+publicación de datos
+comercialización de datos
+mercantilización de datos
+producción de datos
+adquisición de datos
+agregación de datos
+interacción de datos
+traducción de datos
+caracterización de datos
+computación de datos
+
+
+
+
+¡¡¡¡¡¡¡¡¡¡¡intuición de datos!!!!!!!!!!!
+
