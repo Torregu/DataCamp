@@ -88,9 +88,10 @@ interacción de datos
 traducción de datos
 caracterización de datos
 computación de datos
+correción de datos
+
 
 
 
 
 ¡¡¡¡¡¡¡¡¡¡¡intuición de datos!!!!!!!!!!!
-
