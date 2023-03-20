@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class PAC1Ex2Test {
+class PAC1Ex3Test {
 
     private ByteArrayOutputStream outContent;
     private final PrintStream originalOut = System.out;
@@ -26,97 +26,111 @@ class PAC1Ex2Test {
     }
 
     @Test
-    void testIncomeTaxRate() {
+    public void testCalculateTravelledDistance1() {
+        assertEquals(13,PAC1Ex3.calculateTravelledDistance(new int[]{0,1}));
+        assertEquals(10,PAC1Ex3.calculateTravelledDistance(new int[]{1,0}));
+        assertEquals(116,PAC1Ex3.calculateTravelledDistance(new int[]{4,7}));
+        assertEquals(0,PAC1Ex3.calculateTravelledDistance(new int[]{4,4}));
+        assertEquals(18,PAC1Ex3.calculateTravelledDistance(new int[]{14,12}));
 
-        assertEquals(15, PAC1Ex2.incomeTaxRate(1));
-        assertEquals(15, PAC1Ex2.incomeTaxRate(2800));
-        assertEquals(15, PAC1Ex2.incomeTaxRate(14999.50));
-        assertEquals(15, PAC1Ex2.incomeTaxRate(15000));
-        assertEquals(18, PAC1Ex2.incomeTaxRate(15000.10));
-        assertEquals(18, PAC1Ex2.incomeTaxRate(15001));
-        assertEquals(18, PAC1Ex2.incomeTaxRate(17800.98));
-        assertEquals(18, PAC1Ex2.incomeTaxRate(24800));
-        assertEquals(22, PAC1Ex2.incomeTaxRate(24800.05));
-        assertEquals(22, PAC1Ex2.incomeTaxRate(250000));
-        assertEquals(22, PAC1Ex2.incomeTaxRate(15693338));
-
-        //ERRORS
-        assertEquals(-1, PAC1Ex2.incomeTaxRate(0));
-        assertEquals(-1, PAC1Ex2.incomeTaxRate(-4500));
+        assertEquals(23,PAC1Ex3.calculateTravelledDistance(new int[]{0,1,0}));
+        assertEquals(94,PAC1Ex3.calculateTravelledDistance(new int[]{14,0,14,0,14,2}));
+        assertEquals(158,PAC1Ex3.calculateTravelledDistance(new int[]{0,1,4,7}));
+        assertEquals(158,PAC1Ex3.calculateTravelledDistance(new int[]{0,1,4,4,4,7,7}));
+        assertEquals(716,PAC1Ex3.calculateTravelledDistance(new int[]{11,4,0,8,14,8,9,10,13}));
+        assertEquals(644,PAC1Ex3.calculateTravelledDistance(new int[]{6,7,6,6,0,12,9,4}));
+        assertEquals(421,PAC1Ex3.calculateTravelledDistance(new int[]{0,3,0,5,0,9}));
     }
 
     @Test
-    void testTotalIncomeTaxVAT(){
-
-        assertEquals(2968, PAC1Ex2.totalIncomeTaxVAT(2800), 0.01);
-        assertEquals(7155.71, PAC1Ex2.totalIncomeTaxVAT(6750.67), 0.01);
-        assertEquals(15899.47, PAC1Ex2.totalIncomeTaxVAT(14999.50), 0.01);
-        assertEquals(15900.00, PAC1Ex2.totalIncomeTaxVAT(15000), 0.01);
-        assertEquals(15450.01, PAC1Ex2.totalIncomeTaxVAT(15000.01), 0.01);
-        assertEquals(25544.00, PAC1Ex2.totalIncomeTaxVAT(24800), 0.01);
-        assertEquals(24552.99, PAC1Ex2.totalIncomeTaxVAT(24801), 0.01);
-        assertEquals(990000.00, PAC1Ex2.totalIncomeTaxVAT(1000000), 0.01);
-        assertEquals(0, PAC1Ex2.totalIncomeTaxVAT(0), 0.01);
-        assertEquals(0, PAC1Ex2.totalIncomeTaxVAT(-500.00), 0.01);
-
+    public void testCalculateTravelledDistance2() {
+        assertEquals(0,PAC1Ex3.calculateTravelledDistance(new int[]{}));
+        assertEquals("[ERROR]: The route is empty", outContent.toString().trim());
     }
 
     @Test
-    void testInvoicesTotal1() {
-        double[][] invoices1 = {
-                //Client 1
-                {1000.00, 2000.00, 50000.00},
-                //Client 2
-                {18000.00, 4000.00}
+    public void testCalculateTravelledDistance3() {
+        assertEquals(-1,PAC1Ex3.calculateTravelledDistance(new int[]{-1}));
+        assertEquals("[ERROR]: The route contains invalid destination points", outContent.toString().trim());
+    }
+
+    @Test
+    public void testCalculateTravelledDistance4() {
+        assertEquals(-1,PAC1Ex3.calculateTravelledDistance(new int[]{2,4,17}));
+        assertEquals("[ERROR]: The route contains invalid destination points", outContent.toString().trim());
+    }
+
+    @Test
+    public void testCalculateTravelCostsByMonth1() {
+        assertEquals(1.01,PAC1Ex3.calculateTravelCostByMonth(new int[]{0,1}, 0, 5.2,true));
+        assertEquals(1.05,PAC1Ex3.calculateTravelCostByMonth(new int[]{0,1}, 1, 5.2,true));
+        assertEquals(1.15,PAC1Ex3.calculateTravelCostByMonth(new int[]{0,1}, 11, 5.2,true));
+        assertEquals(0.95,PAC1Ex3.calculateTravelCostByMonth(new int[]{0,1}, 0, 4.9,true));
+        assertEquals(1.1,PAC1Ex3.calculateTravelCostByMonth(new int[]{0,1}, 1, 5.9,false));
+        assertEquals(1.84,PAC1Ex3.calculateTravelCostByMonth(new int[]{0,1}, 11, 8.0,false));
+
+        assertEquals(3.69,PAC1Ex3.calculateTravelCostByMonth(new int[]{2,1,2},5,3.9, false));
+        assertEquals(34.44,PAC1Ex3.calculateTravelCostByMonth(new int[]{14,3,11,8,8,2},9,8.4, false));
+        assertEquals(15.57,PAC1Ex3.calculateTravelCostByMonth(new int[]{0,1,4,9},5,3.9, true));
+        assertEquals(10.44,PAC1Ex3.calculateTravelCostByMonth(new int[]{0,1,4,4,4,7,7},11,3.9, true));
+        assertEquals(106.68,PAC1Ex3.calculateTravelCostByMonth(new int[]{11,3,5,1,14,5,9,10,13},2,11.9, false));
+        assertEquals(50.52,PAC1Ex3.calculateTravelCostByMonth(new int[]{6,7,6,6,0,12,6,4},9,6.6, false));
+        assertEquals(20.25,PAC1Ex3.calculateTravelCostByMonth(new int[]{0,6,6,6,6,9},4,5.0, true));
+    }
+
+    @Test
+    public void testCalculateTravelCostsByMonth2() {
+        assertEquals(-1,PAC1Ex3.calculateTravelCostByMonth(new int[]{0,1}, -1, 5.2,true));
+        assertEquals("[ERROR]: Invalid month", outContent.toString().trim());
+    }
+
+    @Test
+    public void testCalculateTravelCostsByMonth3() {
+        assertEquals(-1,PAC1Ex3.calculateTravelCostByMonth(new int[]{0,1}, 12, 5.2,true));
+        assertEquals("[ERROR]: Invalid month", outContent.toString().trim());
+    }
+
+    @Test
+    public void testCalculateTravelCostsByMonth4() {
+        assertEquals(-1,PAC1Ex3.calculateTravelCostByMonth(new int[]{0,1}, 5, -5.4,true));
+        assertEquals("[ERROR]: Invalid litersPer100KM value", outContent.toString().trim());
+    }
+
+    @Test
+    public void testCalculateTravelCosts() {
+        int[][] data = {
+                {2,1,2},
+                {14,3,11,8,8,2},
+                {0,1,4,9},
+                {0,1,4,4,4,7,7}
         };
-        assertEquals(Arrays.toString(new double[] { 52470.0, 22660.0 }), Arrays.toString(PAC1Ex2.invoicesTotal(invoices1)));
+        assertEquals(50.76,PAC1Ex3.calculateTravelCosts(data, new int[]{0,0,0,0}, 5.4,true));
+        assertEquals(57.76,PAC1Ex3.calculateTravelCosts(data, new int[]{11,11,11,11}, 5.4,true));
+        assertEquals(46.13,PAC1Ex3.calculateTravelCosts(data, new int[]{0,0,0,0}, 5.4,false));
+        assertEquals(60.31,PAC1Ex3.calculateTravelCosts(data, new int[]{11,11,11,11}, 5.4,false));
+        assertEquals(59.95,PAC1Ex3.calculateTravelCosts(data, new int[]{0,4,10,11}, 5.4,true));
+        assertEquals(61.05,PAC1Ex3.calculateTravelCosts(data, new int[]{0,4,10,11}, 5.5,true));
+        assertEquals(64.02,PAC1Ex3.calculateTravelCosts(data, new int[]{0,4,10,11}, 5.5,false));
 
-        assertEquals("Client 1: 52470.0"+System.lineSeparator()+
-                        "Client 2: 22660.0"
-                , outContent.toString().trim());
     }
 
     @Test
-    void testInvoicesTotal2() {
-        double[][] invoices1 = {
-                //Client 1
-                {1000.00, 2000.00, 500.00, 350.30},
-                //Client 2
-                {3362.70, 1104.50, 1445.00, 1771.55, 9570.01},
-                //Client 3
-                {222.00, 450.78, 6700.89, 1200.00},
-                //Client 4
-                {444.45, 3000.90, 1234.56, 233.00, 95.76, 4.40},
-                //Client 5
-                {7600.55}
+    public void isGasolineCheaper() {
+        int[][] data = {
+                {0,1,0},
+                {14,0,14,0,14,2},
+                {0,1,4,7},
+                {0,1,4,4,4,7,7},
+                {11,4,0,8,14,8,9,10,13},
+                {6,7,6,6,0,12,9,4},
+                {0,3,0,5,0,9}
         };
-        assertEquals(Arrays.toString(new double[] { 4081.32, 17771.37, 9088.09, 5313.85, 8056.58 }), Arrays.toString(PAC1Ex2.invoicesTotal(invoices1)));
-
-        assertEquals("Client 1: 4081.32"+System.lineSeparator()+
-                        "Client 2: 17771.37"+System.lineSeparator()+
-                        "Client 3: 9088.09"+System.lineSeparator()+
-                        "Client 4: 5313.85"+System.lineSeparator()+
-                        "Client 5: 8056.58"
-                , outContent.toString().trim());
-    }
-
-    @Test
-    void testInvoicesTotal3() {
-        double[][] invoices2 = {
-                //Client 1
-                {7900.57, 12350.33},
-                //Client 2
-                {3362.70, 34.90, 8.99, 450.78, 6700.89, 1200.00, 11450.78, 700.9, 200.00, 9570.01},
-                //Client 3
-                {3.90, 80000.05},
-        };
-
-        assertEquals(Arrays.toString(new double[] { 20858.43, 33343.15, 79203.91 }), Arrays.toString(PAC1Ex2.invoicesTotal(invoices2)));
-
-        assertEquals("Client 1: 20858.43"+System.lineSeparator()+
-                        "Client 2: 33343.15"+System.lineSeparator()+
-                        "Client 3: 79203.91"
-                , outContent.toString().trim());
+        assertFalse(PAC1Ex3.isGasolineCheaper(data, new int[]{0,0,0,0,0,0,0}, 5.4, 4.9));
+        assertTrue(PAC1Ex3.isGasolineCheaper(data, new int[]{10,10,10,10,10,10,10}, 5.4, 4.9));
+        assertFalse(PAC1Ex3.isGasolineCheaper(data, new int[]{1,2,3,4,5,6,7}, 6.9, 5.4));
+        assertTrue(PAC1Ex3.isGasolineCheaper(data, new int[]{5,6,7,8,9,10,11}, 5.0, 5.0));
+        assertFalse(PAC1Ex3.isGasolineCheaper(data, new int[]{0,0,1,2,4,6,6,7}, 4.4,4.0));
+        assertTrue(PAC1Ex3.isGasolineCheaper(data, new int[]{9,9,10,10,10,10,10,11}, 6.0, 5.4));
     }
 
 }
