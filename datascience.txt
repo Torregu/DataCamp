@@ -1,3 +1,4 @@
+señalización de datos
 encapsulación o visibilización de datos
 ocultación de datos
 comunicación de datos
